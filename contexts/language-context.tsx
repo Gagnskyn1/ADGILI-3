@@ -97,7 +97,7 @@ export const translations: Translations = {
     RU: "Два клика",
   },
   heroSubtext: {
-    EN: "Discover and reserve tables at the finest restaurants across Georgia. From cozy cafes to Michelin-worthy experiences, all in one app.",
+    EN: "Discover and reserve tables at the finest restaurants across Georgia. From cozy cafes to fine dining experiences, all in one app.",
     GE: "აღმოაჩინეთ და დაჯავშნეთ მაგიდები საქართველოს საუკეთესო რესტორნებში. კაფეებიდან მიშლენის ღირსეულ გამოცდილებამდე, ყველაფერი ერთ აპლიკაციაში.",
     RU: "Откройте для себя и забронируйте столики в лучших ресторанах Грузии. От уютных кафе до ресторанов уровня Мишлен — всё в одном приложении.",
   },
