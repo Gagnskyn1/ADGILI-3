@@ -432,7 +432,7 @@ export const translations: Translations = {
   },
   faqQ7: {
     EN: "Do I need an account to make a reservation?",
-    GE: "მჭირდება თუ არა ანგარიში დაჯავშნისთვის?",
+    GE: "მჭირდება თუ არა აქაუნთი დაჯავშნისთვის?",
     RU: "Нужен ли аккаунт для бронирования?",
   },
   faqA7: {
