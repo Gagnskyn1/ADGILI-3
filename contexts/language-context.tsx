@@ -428,7 +428,7 @@ export const translations: Translations = {
   faqA6: {
     EN: "ADGILI is a booking platform only. Payments are handled directly by the restaurants. Most restaurants accept cash, credit cards, and mobile payments.",
     GE: "ADGILI მხოლოდ დაჯავშნის პლატფორმაა. გადახდები ხდება პირდაპირ რესტორნებში. რესტორნების უმეტესობა იღებს ნაღდ ფულს, საკრედიტო ბარათებს და მობილურ გადახდებს.",
-    RU: "ADGILI — это только платформа для бронирования. Оплата производится непосредственно в ресторанах. Большинство ресторанов принимают наличные, кредитные карты и мобильные платежи.",
+    RU: "ADGILI  это только платформа для бронирования. Оплата производится непосредственно в ресторанах. Большинство ресторанов принимают наличные, кредитные карты и мобильные платежи.",
   },
   faqQ7: {
     EN: "Do I need an account to make a reservation?",
