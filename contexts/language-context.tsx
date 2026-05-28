@@ -802,7 +802,7 @@ export const translations: Translations = {
   },
   understandPermanent: {
     EN: "I understand this is permanent and cannot be undone",
-    GE: "��ესმის, რომ ეს სამუდამოა და ვერ გაუქმდება",
+    GE: "მესმის, რომ ეს სამუდამოა და უკან აღარ დაბრუნდება",
     RU: "Я понимаю, что это навсегда и не может быть отменено",
   },
   submitDeletionRequest: {
