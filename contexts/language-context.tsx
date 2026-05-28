@@ -145,7 +145,7 @@ export const translations: Translations = {
   },
   fineDining: {
     EN: "Fine Dining",
-    GE: "ფაინ დაინინგი",
+    GE: "პრემიუმ რესტორნები",
     RU: "Изысканная кухня",
   },
   experienceAuthentic: {
