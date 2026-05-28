@@ -88,7 +88,7 @@ export const translations: Translations = {
   },
   heroTitle1: {
     EN: "Book Your Table in",
-    GE: "დაჯავშნეთ მაგიდა",
+    GE: "დაჯავშნეთ მაგიდები",
     RU: "Забронируйте столик в",
   },
   heroTitle2: {
