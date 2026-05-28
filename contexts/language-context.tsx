@@ -318,7 +318,7 @@ export const translations: Translations = {
   },
   getTheAppSubtext: {
     EN: "Download ADGILI today and start discovering amazing restaurants in Georgia.",
-    GE: "ჩამოტვირთეთ ADGILI დღესვე და დაიწყეთ საქართველოს საოცარი რესტორნების აღმოჩენა.",
+    GE: "ჩამოტვირთეთ ADGILI დღესვე და დაიწყეთ საქართველოშ არსებული საოცარი რესტორნების აღმოჩენა.",
     RU: "Скачайте ADGILI сегодня и начните открывать потрясающие рестораны Грузии.",
   },
 
