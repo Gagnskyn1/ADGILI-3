@@ -234,7 +234,7 @@ export const translations: Translations = {
   },
   guaranteedTablesDesc: {
     EN: "Every booking is confirmed instantly. No more waiting for callbacks.",
-    GE: "ყოველი დაჯავშნა მყისიერად დასტურდება. აღარ დაელოდოთ უკუკავშირს.",
+    GE: "ყოველი დაჯავშნა წამიერად დასტურდება. აღარ დაელოდოთ უკუკავშირს.",
     RU: "Каждое бронирование подтверждается мгновенно. Больше никаких ожиданий обратных звонков.",
   },
   exclusivePerks: {
