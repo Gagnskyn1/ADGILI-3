@@ -144,7 +144,7 @@ function PhoneMockup() {
           <div className="absolute inset-4 top-10 bg-[#0f1a1c] rounded-2xl p-4 overflow-hidden">
             {/* App Header */}
             <div className="flex items-center justify-between mb-4">
-              <span className="text-[#c9a86c] font-serif font-bold text-lg">ADGILI</span>
+              <span className="text-[#c9a86c] font-serif font-bold text-lg">Adgili</span>
               <div className="w-8 h-8 rounded-full bg-[#1e3235]" />
             </div>
             

@@ -35,7 +35,7 @@ export function Navbar() {
           {/* Logo */}
           <Link href="/" className="flex items-center">
             <span className="text-2xl md:text-3xl font-serif text-[#c9a86c] font-bold tracking-wide">
-              ADGILI
+              Adgili
             </span>
           </Link>
 
