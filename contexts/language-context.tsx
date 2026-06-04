@@ -392,7 +392,7 @@ export const translations: Translations = {
   },
   faqQ3: {
     EN: "Can I cancel or modify my reservation?",
-    GE: "შემიძლია დაჯავშნის გაუქმება ან შეცვლა?",
+    GE: "შემიძლია ჯავშნის გაუქმება ან შეცვლა?",
     RU: "Могу ли я отменить или изменить бронирование?",
   },
   faqA3: {
