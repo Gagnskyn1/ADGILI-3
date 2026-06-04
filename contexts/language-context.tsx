@@ -420,15 +420,15 @@ export const translations: Translations = {
     GE: "თითოეული რესტორნის გვერდი შეიცავს საკონტაქტო ინფორმაციას. ასევე შეგიძლიათ პირდაპირ მიწეროთ რესტორნებს აპლიკაციის საშუალებით.",
     RU: "Каждая страница ресторана содержит контактную информацию. Вы также можете написать ресторанам напрямую через приложение.",
   },
-  faqQ7: {
+  faqQ6: {
     EN: "Do I need an account to make a reservation?",
     GE: "მჭირდება თუ არა აქაუნთი დაჯავშნისთვის?",
     RU: "Нужен ли аккаунт для бронирования?",
   },
-  faqA7: {
-    EN: "Yes, you need to create a account to make reservations. This allows you to manage your bookings and receive confirmation notifications.",
-    GE: "დიახ, დაჯავშნისთვის საჭიროა აქაუნთის შექმნა. ეს საშუალებას გაძლევთ მართოთ თქვენი დაჯავშნები და მიიღოთ დადასტურების შეტყობინებები.",
-    RU: "Да, для бронирования необходимо создать аккаунт. Это позволяет управлять бронированиями и получать уведомления о подтверждении.",
+  faqA6: {
+    EN: "Yes, you need to create a account to make reservations. This allows you to manage your bookings and receive all kinds of notifications through app.",
+    GE: "დიახ, ჯავშნისთვის საჭიროა აქაუნთის შექმნა. ეს საშუალებას გაძლევთ მართოთ თქვენი ჯავშნები და მიიღოთ ყველანაირი შეტყობინება აპლიკაციაშივე.",
+    RU: "Да, для бронирования необходимо создать аккаунт. Это позволяет управлять бронированиями и получать уведомления сразу в самом приложении.",
   },
   faqQ8: {
     EN: "What happens if the restaurant cancels my booking?",
