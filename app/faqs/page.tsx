@@ -20,7 +20,6 @@ export default function FAQsPage() {
     { qKey: "faqQ7", aKey: "faqA7" },
     { qKey: "faqQ8", aKey: "faqA8" },
     { qKey: "faqQ9", aKey: "faqA9" },
-    { qKey: "faqQ10", aKey: "faqA10" },
   ]
 
   return (
