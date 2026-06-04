@@ -13,7 +13,7 @@ export function WhatIsAdgili() {
           {/* Left Content */}
           <div>
             <h2 className="text-3xl sm:text-4xl lg:text-5xl font-serif text-[#f5f5f5] mb-6">
-              {t("whatIsAdgili")} <span className="text-[#c9a86c]">ADGILI</span>?
+              {t("whatIsAdgili")} <span className="text-[#c9a86c]">Adgili</span>?
             </h2>
             <p className="text-lg text-[#8a9a9d] mb-6 leading-relaxed">
               {t("whatIsAdgiliDesc1")}
@@ -101,7 +101,7 @@ export function WhyChooseAdgili() {
       <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
         <div className="text-center mb-16">
           <h2 className="text-3xl sm:text-4xl lg:text-5xl font-serif text-[#f5f5f5] mb-4">
-            {t("whyChoose")} <span className="text-[#c9a86c]">ADGILI</span>?
+            {t("whyChoose")} <span className="text-[#c9a86c]">Adgili</span>?
           </h2>
           <p className="text-lg text-[#8a9a9d] max-w-2xl mx-auto">
             {t("whyChooseSubtext")}
