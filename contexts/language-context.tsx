@@ -377,7 +377,7 @@ export const translations: Translations = {
   },
   faqA1: {
     EN: "Simply download the ADGILI app, browse restaurants, select your preferred date and time, and confirm your booking. It takes less than 30 seconds!",
-    GE: "უბრალოდ ჩამოტვირთეთ ADGILI აპლიკაცია, დაათვალიერეთ რესტორნები, აირჩიეთ სასურველი თარიღი და დრო, და დაადასტურეთ დაჯავშნა. ამას 30 წამზე ნაკლები დრო სჭირდება!",
+    GE: "უბრალოდ ჩამოტვირთეთ აპლიკაცია Adgili, დაათვალიერეთ რესტორნები, შეარჩიეთ სასურველი თარიღი და დრო, და დაადასტურეთ ჯავშანი. ამას 30 წამზე ნაკლები დრო სჭირდება!",
     RU: "Просто скачайте приложение ADGILI, просмотрите рестораны, выберите желаемую дату и время, и подтвердите бронирование. Это занимает менее 30 секунд!",
   },
   faqQ2: {
@@ -386,13 +386,13 @@ export const translations: Translations = {
     RU: "ADGILI бесплатно?",
   },
   faqA2: {
-    EN: "Yes, ADGILI is completely free for diners. We don't charge any booking fees.",
-    GE: "დიახ, ADGILI სრულიად უფასოა სტუმრებისთვის. ჩვენ არ ვიღებთ დაჯავშნის საფასურს.",
-    RU: "Да, ADGILI полностью бесплатно для гостей. Мы не взимаем никаких сборов за бронирование.",
+    EN: "Yes, ADGILI is completely free for users. We don't charge any booking fees.",
+    GE: "დიახ, ADGILI სრულიად უფასოა მომხმარებლებისთვის. ჩვენ არ ვიღებთ ჯავშნის საფასურს.",
+    RU: "Да, ADGILI полностью бесплатно Для пользователей. Мы не взимаем никаких сборов за бронирование.",
   },
   faqQ3: {
     EN: "Can I cancel or modify my reservation?",
-    GE: "შემიძლია დაჯავშნის გაუქმება ან შეცვლა?",
+    GE: "შემიძლია ჯავშნის გაუქმება ან შეცვლა?",
     RU: "Могу ли я отменить или изменить бронирование?",
   },
   faqA3: {
@@ -421,54 +421,44 @@ export const translations: Translations = {
     RU: "Каждая страница ресторана содержит контактную информацию. Вы также можете написать ресторанам напрямую через приложение.",
   },
   faqQ6: {
-    EN: "What payment methods are accepted?",
-    GE: "რა გადახდის მეთოდებია მიღებული?",
-    RU: "Какие способы оплаты принимаются?",
-  },
-  faqA6: {
-    EN: "ADGILI is a booking platform only. Payments are handled directly by the restaurants. Most restaurants accept cash, credit cards, and mobile payments.",
-    GE: "ADGILI მხოლოდ დაჯავშნის პლატფორმაა. გადახდები ხდება პირდაპირ რესტორნებში. რესტორნების უმეტესობა იღებს ნაღდ ფულს, საკრედიტო ბარათებს და მობილურ გადახდებს.",
-    RU: "ADGILI  это только платформа для бронирования. Оплата производится непосредственно в ресторанах. Большинство ресторанов принимают наличные, кредитные карты и мобильные платежи.",
-  },
-  faqQ7: {
     EN: "Do I need an account to make a reservation?",
-    GE: "მჭირდება თუ არა აქაუნთი დაჯავშნისთვის?",
+    GE: "მჭირდება თუ არა აქაუნთი ჯავშნისთვის?",
     RU: "Нужен ли аккаунт для бронирования?",
   },
+  faqA6: {
+    EN: "Yes, you need to create a account to make reservations. This allows you to manage your bookings and receive all kinds of notifications through app.",
+    GE: "დიახ, ჯავშნისთვის საჭიროა აქაუნთის შექმნა. ეს საშუალებას გაძლევთ მართოთ თქვენი ჯავშნები და მიიღოთ ყველანაირი შეტყობინება აპლიკაციაშივე.",
+    RU: "Да, для бронирования необходимо создать аккаунт. Это позволяет управлять бронированиями и получать уведомления сразу в самом приложении.",
+  },
+  faqQ7: {
+    EN: "In what case could restaurant cancel my booking?",
+    GE: "რა შემთხვევაში შეიძლება რესტორანმა გააუქმოს ჩემი ჯავშანი?",
+    RU: "В каких случаях ресторан может отменить мой заказ?",
+  },
   faqA7: {
-    EN: "Yes, you need to create a free account to make reservations. This allows you to manage your bookings and receive confirmation notifications.",
-    GE: "დიახ, დაჯავშნისთვის საჭიროა უფასო აქაუნთის შექმნა. ეს საშუალებას გაძლევთ მართოთ თქვენი დაჯავშნები და მიიღოთ დადასტურების შეტყობინებები.",
-    RU: "Да, для бронирования необходимо создать бесплатный аккаунт. Это позволяет управлять бронированиями и получать уведомления о подтверждении.",
-  },
-  faqQ8: {
-    EN: "What happens if the restaurant cancels my booking?",
-    GE: "რა ხდება თუ რესტორანი გააუქმებს ჩემს დაჯავშნას?",
-    RU: "Что происходит, если ресторан отменит мое бронирование?",
-  },
-  faqA8: {
     EN: "If a restaurant needs to cancel your booking, you will be notified immediately via the app and email. Our team will help you find an alternative venue if needed.",
     GE: "თუ რესტორანს დასჭირდება თქვენი დაჯავშნის გაუქმება, მყისიერად მიიღებთ შეტყობინებას აპლიკაციაში და ელ.ფოსტაზე. ჩვენი გუნდი დაგეხმარებათ ალტერნატიული ადგილის პოვნაში საჭიროების შემთხვევაში.",
     RU: "Если ресторану нужно отменить ваше бронирование, вы будете немедленно уведомлены через приложение и по электронной почте. Наша команда поможет найти альтернативное место при необходимости.",
   },
-  faqQ9: {
+  faqQ8: {
     EN: "Can I book for large groups?",
     GE: "შემიძლია დიდი ჯგუფისთვის დაჯავშნა?",
     RU: "Можно ли бронировать для больших групп?",
   },
-  faqA9: {
-    EN: "Yes, you can book for groups of up to 20 people through the app. For larger events, we recommend contacting the restaurant directly through our messaging feature.",
-    GE: "დიახ, შეგიძლიათ დაჯავშნოთ 20-მდე ადამიანისთვის აპლიკაციის საშუალებით. უფრო დიდი ღონისძიებებისთვის, გირჩევთ პირდაპირ დაუკავშირდეთ რესტორანს ჩვენი შეტყობინებების ფუნქციით.",
-    RU: "Да, вы можете забронировать для групп до 20 человек через приложение. Для более крупных мероприятий рекомендуем связаться с рестораном напрямую через нашу функцию сообщений.",
+  faqA8: {
+    EN: "Yes, you can book for any number of people through the app. For larger events, we recommend contacting the restaurant directly through our messaging feature.",
+    GE: "დიახ, შეგიძლიათ დაჯავშნოთ ნებისმიერი რაოდენობის ადამიანისთვის აპლიკაციის საშუალებით. უფრო დიდი ღონისძიებებისთვის, გირჩევთ პირდაპირ დაუკავშირდეთ რესტორანს ჩვენი შეტყობინებების ფუნქციით.",
+    RU: "Да, через приложение можно забронировать место для любого количества человек. Для более крупных мероприятий рекомендуем связаться с рестораном напрямую через нашу функцию сообщений.",
   },
-  faqQ10: {
+  faqQ9: {
     EN: "How do restaurant ratings work?",
     GE: "როგორ მუშაობს რესტორნების რეიტინგი?",
     RU: "Как работают рейтинги ресторанов?",
   },
-  faqA10: {
-    EN: "Ratings are based on verified reviews from guests who have actually dined at the restaurant through ADGILI. Only confirmed diners can leave reviews, ensuring authenticity.",
-    GE: "რეიტინგები ეფუძნება დადასტურებულ შეფასებებს სტუმრებისგან, რომლებმაც რეალურად ისადილეს რესტორანში ADGILI-ს საშუალებით. მხოლოდ დადასტურებულ სტუმრებს შეუძლიათ შეფასების დატოვება, რაც უზრუნველყოფს ავთენტურობას.",
-    RU: "Рейтинги основаны на проверенных отзывах гостей, которые действительно обедали в ресторане через ADGILI. Только подтвержденные гости могут оставлять отзывы, что обеспечивает достоверность.",
+  faqA9: {
+    EN: "Ratings are based on verified reviews from guests who have actually dined at the restaurant. Only confirmed diners can leave reviews, ensuring authenticity.",
+    GE: "რეიტინგები ეფუძნება დადასტურებულ შეფასებებს პირდაპირ სტუმრებისგან, რომლებმაც ისადილეს რესტორანში. მხოლოდ დადასტურებულ სტუმრებს შეუძლიათ შეფასების დატოვება, რაც უზრუნველყოფს ავთენტურობას.",
+    RU: "Рейтинги основаны на проверенных отзывах гостей, которые действительно обедали в ресторане. Только подтвержденные гости могут оставлять отзывы, что обеспечивает достоверность.",
   },
 
   // Terms Page
@@ -499,7 +489,7 @@ export const translations: Translations = {
   },
   termsSection2: {
     EN: "To access certain features of ADGILI, you must create a user account by providing accurate and complete information. You are solely responsible for maintaining the confidentiality of your account credentials and for all activities that occur under your account. You must be at least 18 years old to create an account. You agree to notify us immediately of any unauthorized use of your account. ADGILI reserves the right to suspend or terminate accounts that violate these terms or are involved in fraudulent activities.",
-    GE: "ADGILI-ის გარკვეულ ფუნქციებზე წვდომისთვის, თქვენ უნდა შექმნათ მომხმარებლის ანგარიში ზუსტი და სრული ინფორმაციის მიწოდებით. თქვენ ხართ პასუხისმგებელი თქვენი ანგ���რიშის მონაცემების კონფიდენციალურობის შენარჩუნებაზე და თქვენი ანგარიშის ქვეშ განხორციელებულ ყველა აქტივობაზე. ანგარიშის შესაქმნელად უნდა იყოთ მინიმუმ 18 წლის.",
+    GE: "ADGILI-ის გარკვეულ ფუნქციებზე წვდომისთვის, თქვენ უნდა შექმნათ მომხმარებლის ანგარიში ზუსტი და სრული ინფორმაციის მიწოდებით. თქვენ ხართ პასუხისმგებელი თქვენი ანგ   რიშის მონაცემების კონფიდენციალურობის შენარჩუნებაზე და თქვენი ანგარიშის ქვეშ განხორციელებულ ყველა აქტივობაზე. ანგარიშის შესაქმნელად უნდა იყოთ მინიმუმ 18 წლის.",
     RU: "Для доступа к определенным функциям ADGILI вы должны создать учетную запись, предоставив точную и полную информацию. Вы несете полную ответственность за сохранение конфиденциальности данных вашей учетной записи и за все действия, происходящие под вашей учетной записью. Для создания учетной записи вам должно быть не менее 18 лет.",
   },
   termsSection3Title: {
@@ -715,7 +705,7 @@ export const translations: Translations = {
   },
   privacySection1: {
     EN: "We collect information you provide directly, including your full name, email address, phone number, date of birth, and profile preferences. We also automatically collect device information, IP address, location data (with your permission), app usage statistics, and interaction data such as restaurants viewed, searches performed, and bookings made. This information helps us personalize your experience and improve our services.",
-    GE: "ჩვენ ვაგროვებთ ინფორმ��ციას, რომელსაც პირდაპირ მოგვაწვდით, მათ შორის თქვენი სრული სახელი, ელ.ფოსტის მისამართი, ტელეფონის ნომერი, დაბადების თარიღი და პროფილის პრეფერენციები. ჩვენ ასევე ავტომატურად ვაგროვებთ მოწყობილობის ინფორმაციას, IP მისამართს, მდებარეობის მონაცემებს (თქვენი ნებართვით), აპლიკაციის გამოყენების სტატისტიკას და ინტერაქციის მონაცემებს.",
+    GE: "ჩვენ ვაგროვებთ ინფორმ  ციას, რომელსაც პირდაპირ მოგვაწვდით, მათ შორის თქვენი სრული სახელი, ელ.ფოსტის მისამართი, ტელეფონის ნომერი, დაბადების თარიღი და პროფილის პრეფერენციები. ჩვენ ასევე ავტომატურად ვაგროვებთ მოწყობილობის ინფორმაციას, IP მისამართს, მდებარეობის მონაცემებს (თქვენი ნებართვით), აპლიკაციის გამოყენების სტატისტიკას და ინტერაქციის მონაცემებს.",
     RU: "Мы собираем информацию, которую вы предоставляете напрямую, включая ваше полное имя, адрес электронной почты, номер телефона, дату рождения и предпочтения профиля. Мы также автоматически собираем информацию об устройстве, IP-адрес, данные о местоположении (с вашего разрешения), статистику использования приложения и данные взаимодействия.",
   },
   privacySection2Title: {
