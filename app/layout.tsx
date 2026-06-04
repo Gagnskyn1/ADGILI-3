@@ -15,7 +15,7 @@ const playfair = Playfair_Display({
 })
 
 export const metadata: Metadata = {
-  title: 'ADGILI - Georgia\'s #1 Restaurant Booking App',
+  title: 'Adgili - Georgia\'s #1 Restaurant Booking App',
   description: 'Book your table in two clicks. Discover the best restaurants in Georgia with ADGILI.',
   keywords: ['restaurant booking', 'Georgia', 'dining', 'reservations', 'ADGILI'],
 }
