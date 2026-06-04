@@ -154,21 +154,21 @@ export const translations: Translations = {
     RU: "Откройте для себя настоящую грузинскую кухню в сердце Тбилиси...",
   },
 
-  // What is ADGILI
+  // What is Adgili
   whatIsAdgili: {
     EN: "What is",
     GE: "რა არის",
     RU: "Что такое",
   },
   whatIsAdgiliDesc1: {
-    EN: 'ADGILI (meaning "place" in Georgian) is your gateway to discovering and booking the best dining experiences across Georgia. We connect food lovers with exceptional restaurants, from traditional Georgian cuisine to modern fusion experiences.',
-    GE: 'ADGILI (ქართულად "ადგილი") არის თქვენი კარიბჭე საქართველოს საუკეთესო კვებითი გამოცდილების აღმოსაჩენად და დასაჯავშნად. ჩვენ ვაკავშირებთ საჭმლის მოყვარულებს განსაკუთრებულ რესტორნებთან, ტრადიციული ქართული სამზარეულოდან თანამედროვე ფიუჟენ გამოცდილებამდე.',
-    RU: 'ADGILI (что означает «место» на грузинском)  это ваш путь к открытию и бронированию лучших гастрономических впечатлений по всей Грузии. Мы соединяем любителей еды с исключительными ресторанами, от традиционной грузинской кухни до современных фьюжн-блюд.',
+    EN: 'Adgili (meaning "place" in Georgian) is your gateway to discovering and booking the best dining experiences across Georgia. We connect food lovers with exceptional restaurants, from traditional Georgian cuisine to modern fusion experiences.',
+    GE: 'Adgili (ქართულად "ადგილი") არის თქვენი კარიბჭე საქართველოს საუკეთესო კვებითი გამოცდილების აღმოსაჩენად და დასაჯავშნად. ჩვენ ვაკავშირებთ საჭმლის მოყვარულებს განსაკუთრებულ რესტორნებთან, ტრადიციული ქართული სამზარეულოდან თანამედროვე ფიუჟენ გამოცდილებამდე.',
+    RU: 'Adgili (что означает «место» на грузинском)  это ваш путь к открытию и бронированию лучших гастрономических впечатлений по всей Грузии. Мы соединяем любителей еды с исключительными ресторанами, от традиционной грузинской кухни до современных фьюжн-блюд.',
   },
   whatIsAdgiliDesc2: {
-    EN: "Our mission is to make restaurant reservations effortless while helping local restaurants thrive. With real-time availability, instant confirmation, and exclusive deals, ADGILI transforms how Georgians dine out.",
-    GE: "ჩვენი მიზანია რესტორნების დაჯავშნა მარტივი გავხადოთ და ადგილობრივ რესტორნებს განვითარებაში დავეხმაროთ. რეალურ დროში ხელმისაწვდომობით, მყისიერი დადასტურებით და ექსკლუზიური შეთავაზებებით, ADGILI ცვლის ქართველების რესტორანში სტუმრობის გამოცდილებას.",
-    RU: "Наша миссия сделать бронирование ресторанов легким, помогая местным ресторанам процветать. Благодаря доступности в реальном времени, мгновенному подтверждению и эксклюзивным предложениям, ADGILI меняет то, как грузины обедают вне дома.",
+    EN: "Our mission is to make restaurant reservations effortless while helping local restaurants thrive. With real-time availability, instant confirmation, and exclusive deals, Adgili transforms how Georgians dine out.",
+    GE: "ჩვენი მიზანია რესტორნების დაჯავშნა მარტივი გავხადოთ და ადგილობრივ რესტორნებს განვითარებაში დავეხმაროთ. რეალურ დროში ხელმისაწვდომობით, მყისიერი დადასტურებით და ექსკლუზიური შეთავაზებებით, Adgili ცვლის ქართველების რესტორანში სტუმრობის გამოცდილებას.",
+    RU: "Наша миссия сделать бронирование ресторанов легким, помогая местным ресторанам процветать. Благодаря доступности в реальном времени, мгновенному подтверждению и эксклюзивным предложениям, Adgili меняет то, как грузины обедают вне дома.",
   },
   instantBooking: {
     EN: "Instant Booking",
@@ -206,7 +206,7 @@ export const translations: Translations = {
     RU: "Читайте честные отзывы",
   },
 
-  // Why Choose ADGILI
+  // Why Choose Adgili
   whyChoose: {
     EN: "Why Choose",
     GE: "რატომ აირჩიოთ",
@@ -354,9 +354,9 @@ export const translations: Translations = {
     RU: "Удалить аккаунт",
   },
   copyright: {
-    EN: "© 2026 ADGILI. All rights reserved.",
-    GE: "© 2026 ADGILI. ყველა უფლება დაცულია.",
-    RU: "© 2026 ADGILI. Все права защищены.",
+    EN: "© 2026 Adgili. All rights reserved.",
+    GE: "© 2026 Adgili. ყველა უფლება დაცულია.",
+    RU: "© 2026 Adgili. Все права защищены.",
   },
 
   // FAQs Page
@@ -376,19 +376,19 @@ export const translations: Translations = {
     RU: "Как сделать бронирование?",
   },
   faqA1: {
-    EN: "Simply download the ADGILI app, browse restaurants, select your preferred date and time, and confirm your booking. It takes less than 30 seconds!",
+    EN: "Simply download the Adgili app, browse restaurants, select your preferred date and time, and confirm your booking. It takes less than 30 seconds!",
     GE: "უბრალოდ ჩამოტვირთეთ აპლიკაცია Adgili, დაათვალიერეთ რესტორნები, შეარჩიეთ სასურველი თარიღი და დრო, და დაადასტურეთ ჯავშანი. ამას 30 წამზე ნაკლები დრო სჭირდება!",
-    RU: "Просто скачайте приложение ADGILI, просмотрите рестораны, выберите желаемую дату и время, и подтвердите бронирование. Это занимает менее 30 секунд!",
+    RU: "Просто скачайте приложение Adgili, просмотрите рестораны, выберите желаемую дату и время, и подтвердите бронирование. Это занимает менее 30 секунд!",
   },
   faqQ2: {
-    EN: "Is ADGILI free to use?",
-    GE: "ADGILI უფასოა?",
-    RU: "ADGILI бесплатно?",
+    EN: "Is Adgili free to use?",
+    GE: "Adgili უფასოა?",
+    RU: "Adgili бесплатно?",
   },
   faqA2: {
-    EN: "Yes, ADGILI is completely free for users. We don't charge any booking fees.",
-    GE: "დიახ, ADGILI სრულიად უფასოა მომხმარებლებისთვის. ჩვენ არ ვიღებთ ჯავშნის საფასურს.",
-    RU: "Да, ADGILI полностью бесплатно Для пользователей. Мы не взимаем никаких сборов за бронирование.",
+    EN: "Yes, Adgili is completely free for users. We don't charge any booking fees.",
+    GE: "დიახ, Adgili სრულიად უფასოა მომხმარებლებისთვის. ჩვენ არ ვიღებთ ჯავშნის საფასურს.",
+    RU: "Да, Adgili полностью бесплатно Для пользователей. Мы не взимаем никаких сборов за бронирование.",
   },
   faqQ3: {
     EN: "Can I cancel or modify my reservation?",
@@ -401,14 +401,14 @@ export const translations: Translations = {
     RU: "Да, вы можете отменить или изменить бронирование через приложение за 2 часа до назначенного времени.",
   },
   faqQ4: {
-    EN: "What cities does ADGILI cover?",
-    GE: "რომელ ქალაქებს მოიცავს ADGILI?",
-    RU: "Какие города охватывает ADGILI?",
+    EN: "What cities does Adgili cover?",
+    GE: "რომელ ქალაქებს მოიცავს Adgili?",
+    RU: "Какие города охватывает Adgili?",
   },
   faqA4: {
-    EN: "ADGILI currently covers Tbilisi, Batumi, Kutaisi, and other major cities across Georgia, with more locations being added regularly.",
-    GE: "ამჟამად ADGILI მოიცავს თბილისს, ბათუმს, ქუთაისს და საქართველოს სხვა მნიშვნელოვან ქალაქებს, ახალი ლოკაციები რეგულარულად ემატება.",
-    RU: "В настоящее время ADGILI охватывает Тбилиси, Батуми, Кутаиси и другие крупные города Грузии, регулярно добавляются новые локации.",
+    EN: "Adgili currently covers Tbilisi, Batumi, Kutaisi, and other major cities across Georgia, with more locations being added regularly.",
+    GE: "ამჟამად Adgili მოიცავს თბილისს, ბათუმს, ქუთაისს და საქართველოს სხვა მნიშვნელოვან ქალაქებს, ახალი ლოკაციები რეგულარულად ემატება.",
+    RU: "В настоящее время Adgili охватывает Тбилиси, Батуми, Кутаиси и другие крупные города Грузии, регулярно добавляются новые локации.",
   },
   faqQ5: {
     EN: "How do I contact a restaurant directly?",
@@ -478,9 +478,9 @@ export const translations: Translations = {
     RU: "1. Принятие условий",
   },
   termsSection1: {
-    EN: "By downloading, installing, or using the ADGILI mobile application, you agree to be legally bound by these Terms of Service. These terms constitute a binding legal agreement between you and ADGILI LLC. If you do not agree to these terms in their entirety, you must immediately cease using our services and uninstall the application from your device. Your continued use of ADGILI signifies your acceptance of any future modifications to these terms, which we may update periodically without prior notice.",
-    GE: "ADGILI მობილური აპლიკაციის ჩამოტვირთვით, ინსტალაციით ან გამოყენებით, თქვენ ეთანხმებით, რომ იყოთ იურიდიულად შეზღუდული ამ მომსახურების პირობებით. ეს პირობები წარმოადგენს სავალდებულო იურიდიულ შეთანხმებას თქვენსა და ADGILI LLC-ს შორის. თუ თქვენ არ ეთანხმებით ამ პირობებს მთლიანად, დაუყოვნებლივ უნდა შეწყვიტოთ ჩვენი სერვისების გამოყენება და წაშალოთ აპლიკაცია თქვენი მოწყობილობიდან.",
-    RU: "Загружая, устанавливая или используя мобильное приложение ADGILI, вы соглашаетесь быть юридически связанными настоящими Условиями обслуживания. Эти условия представляют собой обязывающее юридическое соглашение между вами и ADGILI LLC. Если вы не согласны с этими условиями полностью, вы должны немедленно прекратить использование наших услуг и удалить приложение с вашего устройства.",
+    EN: "By downloading, installing, or using the Adgili mobile application, you agree to be legally bound by these Terms of Service. These terms constitute a binding legal agreement between you and Adgili LLC. If you do not agree to these terms in their entirety, you must immediately cease using our services and uninstall the application from your device. Your continued use of Adgili signifies your acceptance of any future modifications to these terms, which we may update periodically without prior notice.",
+    GE: "Adgili მობილური აპლიკაციის ჩამოტვირთვით, ინსტალაციით ან გამოყენებით, თქვენ ეთანხმებით, რომ იყოთ იურიდიულად შეზღუდული ამ მომსახურების პირობებით. ეს პირობები წარმოადგენს სავალდებულო იურიდიულ შეთანხმებას თქვენსა და Adgili LLC-ს შორის. თუ თქვენ არ ეთანხმებით ამ პირობებს მთლიანად, დაუყოვნებლივ უნდა შეწყვიტოთ ჩვენი სერვისების გამოყენება და წაშალოთ აპლიკაცია თქვენი მოწყობილობიდან.",
+    RU: "Загружая, устанавливая или используя мобильное приложение Adgili, вы соглашаетесь быть юридически связанными настоящими Условиями обслуживания. Эти условия представляют собой обязывающее юридическое соглашение между вами и Adgili LLC. Если вы не согласны с этими условиями полностью, вы должны немедленно прекратить использование наших услуг и удалить приложение с вашего устройства.",
   },
   termsSection2Title: {
     EN: "2. User Accounts",
@@ -488,9 +488,9 @@ export const translations: Translations = {
     RU: "2. Учетные записи пользователей",
   },
   termsSection2: {
-    EN: "To access certain features of ADGILI, you must create a user account by providing accurate and complete information. You are solely responsible for maintaining the confidentiality of your account credentials and for all activities that occur under your account. You must be at least 18 years old to create an account. You agree to notify us immediately of any unauthorized use of your account. ADGILI reserves the right to suspend or terminate accounts that violate these terms or are involved in fraudulent activities.",
-    GE: "ADGILI-ის გარკვეულ ფუნქციებზე წვდომისთვის, თქვენ უნდა შექმნათ მომხმარებლის ანგარიში ზუსტი და სრული ინფორმაციის მიწოდებით. თქვენ ხართ პასუხისმგებელი თქვენი ანგ   რიშის მონაცემების კონფიდენციალურობის შენარჩუნებაზე და თქვენი ანგარიშის ქვეშ განხორციელებულ ყველა აქტივობაზე. ანგარიშის შესაქმნელად უნდა იყოთ მინიმუმ 18 წლის.",
-    RU: "Для доступа к определенным функциям ADGILI вы должны создать учетную запись, предоставив точную и полную информацию. Вы несете полную ответственность за сохранение конфиденциальности данных вашей учетной записи и за все действия, происходящие под вашей учетной записью. Для создания учетной записи вам должно быть не менее 18 лет.",
+    EN: "To access certain features of Adgili, you must create a user account by providing accurate and complete information. You are solely responsible for maintaining the confidentiality of your account credentials and for all activities that occur under your account. You must be at least 18 years old to create an account. You agree to notify us immediately of any unauthorized use of your account. Adgili reserves the right to suspend or terminate accounts that violate these terms or are involved in fraudulent activities.",
+    GE: "Adgili-ის გარკვეულ ფუნქციებზე წვდომისთვის, თქვენ უნდა შექმნათ მომხმარებლის ანგარიში ზუსტი და სრული ინფორმაციის მიწოდებით. თქვენ ხართ პასუხისმგებელი თქვენი ანგ   რიშის მონაცემების კონფიდენციალურობის შენარჩუნებაზე და თქვენი ანგარიშის ქვეშ განხორციელებულ ყველა აქტივობაზე. ანგარიშის შესაქმნელად უნდა იყოთ მინიმუმ 18 წლის.",
+    RU: "Для доступа к определенным функциям Adgili вы должны создать учетную запись, предоставив точную и полную информацию. Вы несете полную ответственность за сохранение конфиденциальности данных вашей учетной записи и за все действия, происходящие под вашей учетной записью. Для создания учетной записи вам должно быть не менее 18 лет.",
   },
   termsSection3Title: {
     EN: "3. Booking Policy",
@@ -498,9 +498,9 @@ export const translations: Translations = {
     RU: "3. Политика бронирования",
   },
   termsSection3: {
-    EN: "ADGILI facilitates restaurant reservations between users and restaurant partners. All bookings are subject to availability and restaurant confirmation. Users must arrive within 15 minutes of their reservation time; failure to do so may result in cancellation of your table. Cancellations must be made at least 2 hours before the scheduled reservation time. Repeated no-shows or late cancellations may result in temporary or permanent restrictions on your account. Special requests are not guaranteed and are subject to restaurant discretion.",
-    GE: "ADGILI ამარტივებს რესტორნების დაჯავშნებს მომხმარებლებსა და პარტნიორ რესტორნებს შორის. ყველა დაჯავშნა ექვემდებარება ხელმისაწვდომობას და რესტორნის დადასტურებას. მომხმარებლები უნდა მოვიდნენ დაჯავშნის დროიდან 15 წუთის განმავლობაში; წინააღმდეგ შემთხვევაში თქვენი მაგიდა შეიძლება გაუქმდეს. გაუქმებები უნდა განხორციელდეს დაგეგმილი დაჯავშნის დრომდე მინიმუმ 2 საათით ადრე.",
-    RU: "ADGILI облегчает бронирование ресторанов между пользователями и партнерами-ресторанами. Все бронирования зависят от наличия мест и подтверждения ресторана. Пользователи должны прибыть в течение 15 минут после времени бронирования; в противном случае ваш столик может быть отменен. Отмены должны быть сделаны не менее чем за 2 часа до запланированного времени бронирования.",
+    EN: "Adgili facilitates restaurant reservations between users and restaurant partners. All bookings are subject to availability and restaurant confirmation. Users must arrive within 15 minutes of their reservation time; failure to do so may result in cancellation of your table. Cancellations must be made at least 2 hours before the scheduled reservation time. Repeated no-shows or late cancellations may result in temporary or permanent restrictions on your account. Special requests are not guaranteed and are subject to restaurant discretion.",
+    GE: "Adgili ამარტივებს რესტორნების დაჯავშნებს მომხმარებლებსა და პარტნიორ რესტორნებს შორის. ყველა დაჯავშნა ექვემდებარება ხელმისაწვდომობას და რესტორნის დადასტურებას. მომხმარებლები უნდა მოვიდნენ დაჯავშნის დროიდან 15 წუთის განმავლობაში; წინააღმდეგ შემთხვევაში თქვენი მაგიდა შეიძლება გაუქმდეს. გაუქმებები უნდა განხორციელდეს დაგეგმილი დაჯავშნის დრომდე მინიმუმ 2 საათით ადრე.",
+    RU: "Adgili облегчает бронирование ресторанов между пользователями и партнерами-ресторанами. Все бронирования зависят от наличия мест и подтверждения ресторана. Пользователи должны прибыть в течение 15 минут после времени бронирования; в противном случае ваш столик может быть отменен. Отмены должны быть сделаны не менее чем за 2 часа до запланированного времени бронирования.",
   },
   termsSection4Title: {
     EN: "4. User Conduct Rules",
@@ -508,9 +508,9 @@ export const translations: Translations = {
     RU: "4. Правила поведения пользователей",
   },
   termsSection4: {
-    EN: "Users agree to use ADGILI responsibly and ethically. Prohibited activities include: creating multiple accounts, making false reservations, using the service for commercial purposes without authorization, attempting to manipulate ratings or reviews, harassing restaurant staff or other users, and any activity that disrupts the proper functioning of our platform. Violations may result in immediate account termination without refund of any accumulated benefits.",
-    GE: "მომხმარებლები თანხმდებიან გამოიყენონ ADGILI პასუხისმგებლობით და ეთიკურად. აკრძალული აქტივობები მოიცავს: მრავალი ანგარიშის შექმნას, ყალბი დაჯავშნების გაკეთებას, სერვისის კომერციული მიზნებისთვის გამოყენებას ავტორიზაციის გარეშე, რეიტინგების ან შეფასებების მანიპულირების მცდელობას, რესტორნის პერსონალის ან სხვა მომხმარებლების შევიწროებას.",
-    RU: "Пользователи соглашаются использовать ADGILI ответственно и этично. Запрещенные действия включают: создание нескольких учетных записей, ложные бронирования, использование сервиса в коммерческих целях без разрешения, попытки манипулировать рейтингами или отзывами, притеснение персонала ресторана или других пользователей.",
+    EN: "Users agree to use Adgili responsibly and ethically. Prohibited activities include: creating multiple accounts, making false reservations, using the service for commercial purposes without authorization, attempting to manipulate ratings or reviews, harassing restaurant staff or other users, and any activity that disrupts the proper functioning of our platform. Violations may result in immediate account termination without refund of any accumulated benefits.",
+    GE: "მომხმარებლები თანხმდებიან გამოიყენონ Adgili პასუხისმგებლობით და ეთიკურად. აკრძალული აქტივობები მოიცავს: მრავალი ანგარიშის შექმნას, ყალბი დაჯავშნების გაკეთებას, სერვისის კომერციული მიზნებისთვის გამოყენებას ავტორიზაციის გარეშე, რეიტინგების ან შეფასებების მანიპულირების მცდელობას, რესტორნის პერსონალის ან სხვა მომხმარებლების შევიწროებას.",
+    RU: "Пользователи соглашаются использовать Adgili ответственно и этично. Запрещенные действия включают: создание нескольких учетных записей, ложные бронирования, использование сервиса в коммерческих целях без разрешения, попытки манипулировать рейтингами или отзывами, притеснение персонала ресторана или других пользователей.",
   },
   termsSection5Title: {
     EN: "5. Intellectual Property",
@@ -518,9 +518,9 @@ export const translations: Translations = {
     RU: "5. Интеллектуальная собственность",
   },
   termsSection5: {
-    EN: "All content, trademarks, logos, designs, and software associated with ADGILI are the exclusive property of ADGILI LLC and are protected by Georgian and international intellectual property laws. You may not copy, modify, distribute, sell, or lease any part of our services or included software without explicit written permission. User-generated content, including reviews and ratings, grants ADGILI a worldwide, non-exclusive license to use, display, and distribute such content.",
-    GE: "ADGILI-თან დაკავშირებული ყველა კონტენტი, სავაჭრო ნიშანი, ლოგო, დიზაინი და პროგრამული უზრუნველყოფა არის ADGILI LLC-ის ექსკლუზიური საკუთრება და დაცულია საქართველოს და საერთაშორისო ინტელექტუალური საკუთრების კანონებით. თქვენ არ შეგიძლიათ დააკოპიროთ, შეცვალოთ, გაავრცელოთ, გაყიდოთ ან გააქირაოთ ჩვენი სერვისების ან პროგრამული უზრუნველყოფის რაიმე ნაწილი წერილობითი ნებართვის გარეშე.",
-    RU: "Весь контент, товарные знаки, логотипы, дизайны и программное обеспечение, связанные с ADGILI, являются исключительной собственностью ADGILI LLC и защищены грузинскими и международными законами об интеллектуальной собственности. Вы не можете копировать, изменять, распространять, продавать или сдавать в аренду любую часть наших услуг без письменного разрешения.",
+    EN: "All content, trademarks, logos, designs, and software associated with Adgili are the exclusive property of Adgili LLC and are protected by Georgian and international intellectual property laws. You may not copy, modify, distribute, sell, or lease any part of our services or included software without explicit written permission. User-generated content, including reviews and ratings, grants Adgili a worldwide, non-exclusive license to use, display, and distribute such content.",
+    GE: "Adgili-თან დაკავშირებული ყველა კონტენტი, სავაჭრო ნიშანი, ლოგო, დიზაინი და პროგრამული უზრუნველყოფა არის Adgili LLC-ის ექსკლუზიური საკუთრება და დაცულია საქართველოს და საერთაშორისო ინტელექტუალური საკუთრების კანონებით. თქვენ არ შეგიძლიათ დააკოპიროთ, შეცვალოთ, გაავრცელოთ, გაყიდოთ ან გააქირაოთ ჩვენი სერვისების ან პროგრამული უზრუნველყოფის რაიმე ნაწილი წერილობითი ნებართვის გარეშე.",
+    RU: "Весь контент, товарные знаки, логотипы, дизайны и программное обеспечение, связанные с Adgili, являются исключительной собственностью Adgili LLC и защищены грузинскими и международными законами об интеллектуальной собственности. Вы не можете копировать, изменять, распространять, продавать или сдавать в аренду любую часть наших услуг без письменного разрешения.",
   },
   termsSection6Title: {
     EN: "6. Limitation of Liability",
@@ -528,9 +528,9 @@ export const translations: Translations = {
     RU: "6. Ограничение ответственности",
   },
   termsSection6: {
-    EN: "ADGILI provides a booking platform only and is not responsible for the quality of food, service, hygiene, or overall experience at partner restaurants. We make no warranties regarding the accuracy of restaurant information, availability, or pricing. ADGILI shall not be liable for any indirect, incidental, special, consequential, or punitive damages arising from your use of our services. Our total liability shall not exceed the amount you have paid to ADGILI in the past twelve months.",
-    GE: "ADGILI უზრუნველყოფს მხოლოდ დაჯავშნის პლატფორმას და არ არის პასუხისმგებელი პარტნიორ რესტორნებში საკვების ხარისხზე, მომსახურებაზე, ჰიგიენაზე ან საერთო გამოცდილებაზე. ჩვენ არ ვიძლევით გარანტიას რესტორნის ინფორმაციის, ხელმისაწვდომობის ან ფასების სიზუსტეზე. ADGILI არ იქნება პასუხისმგებელი რაიმე არაპირდაპირ, შემთხვევით, სპეციალურ, შედეგობრივ ან დამსჯელ ზიანზე.",
-    RU: "ADGILI предоставляет только платформу для бронирования и не несет ответственности за качество еды, обслуживание, гигиену или общий опыт в партнерских ресторанах. Мы не даем никаких гарантий относительно точности информации о ресторане, доступности или ценах. ADGILI не несет ответственности за любой косвенный, случайный, специальный, последовательный или штрафной ущерб.",
+    EN: "Adgili provides a booking platform only and is not responsible for the quality of food, service, hygiene, or overall experience at partner restaurants. We make no warranties regarding the accuracy of restaurant information, availability, or pricing. Adgili shall not be liable for any indirect, incidental, special, consequential, or punitive damages arising from your use of our services. Our total liability shall not exceed the amount you have paid to Adgili in the past twelve months.",
+    GE: "Adgili უზრუნველყოფს მხოლოდ დაჯავშნის პლატფორმას და არ არის პასუხისმგებელი პარტნიორ რესტორნებში საკვების ხარისხზე, მომსახურებაზე, ჰიგიენაზე ან საერთო გამოცდილებაზე. ჩვენ არ ვიძლევით გარანტიას რესტორნის ინფორმაციის, ხელმისაწვდომობის ან ფასების სიზუსტეზე. Adgili არ იქნება პასუხისმგებელი რაიმე არაპირდაპირ, შემთხვევით, სპეციალურ, შედეგობრივ ან დამსჯელ ზიანზე.",
+    RU: "Adgili предоставляет только платформу для бронирования и не несет ответственности за качество еды, обслуживание, гигиену или общий опыт в партнерских ресторанах. Мы не даем никаких гарантий относительно точности информации о ресторане, доступности или ценах. Adgili не несет ответственности за любой косвенный, случайный, специальный, последовательный или штрафной ущерб.",
   },
   termsSection7Title: {
     EN: "7. Account Termination",
@@ -538,9 +538,9 @@ export const translations: Translations = {
     RU: "7. Прекращение учетной записи",
   },
   termsSection7: {
-    EN: "You may terminate your account at any time through the app settings or by contacting our support team. ADGILI reserves the right to suspend or terminate your account immediately, without prior notice, if we reasonably believe you have violated these terms, engaged in fraudulent activity, or pose a risk to other users or our platform. Upon termination, your right to use ADGILI ceases immediately, and we may delete your data in accordance with our Privacy Policy.",
-    GE: "შეგიძლიათ შეწყვიტოთ თქვენი ანგარიში ნებისმიერ დროს აპლიკაციის პარამეტრებით ან ჩვენს მხარდაჭერის გუნდთან დაკავშირებით. ADGILI იტოვებს უფლებას დაუყოვნებლივ შეაჩეროს ან შეწყვიტოს თქვენი ანგარიში, წინასწარი შეტყობინების გარეშე, თუ გონივრულად მივიჩნევთ, რომ თქვენ დაარღვიეთ ეს პირობები, მონაწილეობთ თაღლითურ საქმიანობაში ან საფრთხეს უქმნით სხვა მომხმარებლებს.",
-    RU: "Вы можете удалить свою учетную запись в любое время через настройки приложения или связавшись с нашей службой поддержки. ADGILI оставляет за собой право немедленно приостановить или удалить вашу учетную запись без предварительного уведомления, если мы обоснованно полагаем, что вы нарушили эти условия, занимались мошенничеством или представляете риск для других пользователей.",
+    EN: "You may terminate your account at any time through the app settings or by contacting our support team. Adgili reserves the right to suspend or terminate your account immediately, without prior notice, if we reasonably believe you have violated these terms, engaged in fraudulent activity, or pose a risk to other users or our platform. Upon termination, your right to use Adgili ceases immediately, and we may delete your data in accordance with our Privacy Policy.",
+    GE: "შეგიძლიათ შეწყვიტოთ თქვენი ანგარიში ნებისმიერ დროს აპლიკაციის პარამეტრებით ან ჩვენს მხარდაჭერის გუნდთან დაკავშირებით. Adgili იტოვებს უფლებას დაუყოვნებლივ შეაჩეროს ან შეწყვიტოს თქვენი ანგარიში, წინასწარი შეტყობინების გარეშე, თუ გონივრულად მივიჩნევთ, რომ თქვენ დაარღვიეთ ეს პირობები, მონაწილეობთ თაღლითურ საქმიანობაში ან საფრთხეს უქმნით სხვა მომხმარებლებს.",
+    RU: "Вы можете удалить свою учетную запись в любое время через настройки приложения или связавшись с нашей службой поддержки. Adgili оставляет за собой право немедленно приостановить или удалить вашу учетную запись без предварительного уведомления, если мы обоснованно полагаем, что вы нарушили эти условия, занимались мошенничеством или представляете риск для других пользователей.",
   },
   termsSection8Title: {
     EN: "8. Governing Law",
@@ -548,9 +548,9 @@ export const translations: Translations = {
     RU: "8. Применимое право",
   },
   termsSection8: {
-    EN: "These Terms of Service shall be governed by and construed in accordance with the laws of Georgia, without regard to its conflict of law provisions. Any disputes arising from these terms or your use of ADGILI shall be resolved exclusively in the courts of Tbilisi, Georgia. By using ADGILI, you consent to the personal jurisdiction of these courts. If any provision of these terms is found to be unenforceable, the remaining provisions shall continue in full force and effect.",
-    GE: "ეს მომსახურების პირობები რეგულირდება და განიმარტება საქართველოს კანონმდებლობის შესაბამისად, კანონთა კონფლიქტის დებულებების მიუხედავად. ამ პირობებიდან ან ADGILI-ის გამოყენებიდან წარმოშობილი ნებისმიერი დავა გადაწყდება ექსკლუზიურად თბილისის, საქართველოს სასამართლოებში. ADGILI-ის გამოყენებით, თქვენ ეთანხმებით ამ სასამართლოების პირადი იურისდიქციას.",
-    RU: "Настоящие Условия обслуживания регулируются и толкуются в соответствии с законодательством Грузии, без учета положений о коллизии законов. Любые споры, возникающие из этих условий или использования ADGILI, будут разрешаться исключительно в судах Тбилиси, Грузия. Используя ADGILI, вы соглашаетесь с персональной юрисдикцией этих судов.",
+    EN: "These Terms of Service shall be governed by and construed in accordance with the laws of Georgia, without regard to its conflict of law provisions. Any disputes arising from these terms or your use of Adgili shall be resolved exclusively in the courts of Tbilisi, Georgia. By using Adgili, you consent to the personal jurisdiction of these courts. If any provision of these terms is found to be unenforceable, the remaining provisions shall continue in full force and effect.",
+    GE: "ეს მომსახურების პირობები რეგულირდება და განიმარტება საქართველოს კანონმდებლობის შესაბამისად, კანონთა კონფლიქტის დებულებების მიუხედავად. ამ პირობებიდან ან Adgili-ის გამოყენებიდან წარმოშობილი ნებისმიერი დავა გადაწყდება ექსკლუზიურად თბილისის, საქართველოს სასამართლოებში. Adgili-ის გამოყენებით, თქვენ ეთანხმებით ამ სასამართლოების პირადი იურისდიქციას.",
+    RU: "Настоящие Условия обслуживания регулируются и толкуются в соответствии с законодательством Грузии, без учета положений о коллизии законов. Любые споры, возникающие из этих условий или использования Adgili, будут разрешаться исключительно в судах Тбилиси, Грузия. Используя Adgili, вы соглашаетесь с персональной юрисдикцией этих судов.",
   },
 
   // Website Terms Page
@@ -570,9 +570,9 @@ export const translations: Translations = {
     RU: "1. Использование сайта",
   },
   websiteSection1: {
-    EN: "By accessing and using the ADGILI website, you agree to comply with these terms and conditions. The website is provided for informational purposes and to facilitate access to our mobile application. You may browse the website, download our app, and access publicly available content without creating an account. Commercial use of website content without authorization is prohibited.",
-    GE: "ADGILI ვებგვერდზე წვდომით და გამოყენებით, თქვენ ეთანხმებით ამ წესებსა და პირობებს. ვებგვერდი მოწოდებულია საინფორმაციო მიზნებისთვის და ჩვენი მობილური აპლიკაციის წვდომის გასაადვილებლად. შეგიძლიათ დაათვალიეროთ ვებგვერდი, ჩამოტვირთოთ ჩვენი აპლიკაცია და მიიღოთ საჯაროდ ხელმისაწვდომი კონტენტი ანგარიშის შექმნის გარეშე.",
-    RU: "Получая доступ к веб-сайту ADGILI и используя его, вы соглашаетесь соблюдать эти условия. Веб-сайт предоставляется в информационных целях и для облегчения доступа к нашему мобильному приложению. Вы можете просматривать сайт, загружать наше приложение и получать доступ к общедоступному контенту без создания учетной записи.",
+    EN: "By accessing and using the Adgili website, you agree to comply with these terms and conditions. The website is provided for informational purposes and to facilitate access to our mobile application. You may browse the website, download our app, and access publicly available content without creating an account. Commercial use of website content without authorization is prohibited.",
+    GE: "Adgili ვებგვერდზე წვდომით და გამოყენებით, თქვენ ეთანხმებით ამ წესებსა და პირობებს. ვებგვერდი მოწოდებულია საინფორმაციო მიზნებისთვის და ჩვენი მობილური აპლიკაციის წვდომის გასაადვილებლად. შეგიძლიათ დაათვალიეროთ ვებგვერდი, ჩამოტვირთოთ ჩვენი აპლიკაცია და მიიღოთ საჯაროდ ხელმისაწვდომი კონტენტი ანგარიშის შექმნის გარეშე.",
+    RU: "Получая доступ к веб-сайту Adgili и используя его, вы соглашаетесь соблюдать эти условия. Веб-сайт предоставляется в информационных целях и для облегчения доступа к нашему мобильному приложению. Вы можете просматривать сайт, загружать наше приложение и получать доступ к общедоступному контенту без создания учетной записи.",
   },
   websiteSection2Title: {
     EN: "2. Content Ownership",
@@ -580,9 +580,9 @@ export const translations: Translations = {
     RU: "2. Право собственности на контент",
   },
   websiteSection2: {
-    EN: "All content on this website, including text, graphics, logos, images, and software, is the property of ADGILI LLC or its content suppliers and is protected by Georgian and international copyright laws. You may not reproduce, distribute, modify, or create derivative works from any content without prior written consent.",
-    GE: "ამ ვებგვერდის ყველა კონტენტი, მათ შორის ტექსტი, გრაფიკა, ლოგოები, სურათები და პროგრამული უზრუნველყოფა, არის ADGILI LLC-ის ან მისი კონტენტის მომწოდებლების საკუთრება და დაცულია საქართველოს და საერთაშორისო საავტორო უფლებების კანონებით.",
-    RU: "Весь контент на этом веб-сайте, включая текст, графику, логотипы, изображения и программное обеспечение, является собственностью ADGILI LLC или его поставщиков контента и защищен грузинскими и международными законами об авторском праве.",
+    EN: "All content on this website, including text, graphics, logos, images, and software, is the property of Adgili LLC or its content suppliers and is protected by Georgian and international copyright laws. You may not reproduce, distribute, modify, or create derivative works from any content without prior written consent.",
+    GE: "ამ ვებგვერდის ყველა კონტენტი, მათ შორის ტექსტი, გრაფიკა, ლოგოები, სურათები და პროგრამული უზრუნველყოფა, არის Adgili LLC-ის ან მისი კონტენტის მომწოდებლების საკუთრება და დაცულია საქართველოს და საერთაშორისო საავტორო უფლებების კანონებით.",
+    RU: "Весь контент на этом веб-сайте, включая текст, графику, логотипы, изображения и программное обеспечение, является собственностью Adgili LLC или его поставщиков контента и защищен грузинскими и международными законами об авторском праве.",
   },
   websiteSection3Title: {
     EN: "3. External Links",
@@ -590,9 +590,9 @@ export const translations: Translations = {
     RU: "3. Внешние ссылки",
   },
   websiteSection3: {
-    EN: "Our website may contain links to third-party websites. These links are provided for your convenience only. ADGILI does not endorse, control, or assume responsibility for the content or practices of any third-party sites. Accessing external links is at your own risk.",
-    GE: "ჩვენი ვებგვერდი შეიძლება შეიცავდეს ბმულებს მესამე მხარის ვებგვერდებზე. ეს ბმულები მოწოდებულია მხოლოდ თქვენი მოხერხებულობისთვის. ADGILI არ უჭერს მხარს, არ აკონტროლებს და არ იღებს პასუხისმგებლობას მესამე მხარის საიტების კონტენტზე ან პრაქტიკაზე.",
-    RU: "Наш веб-сайт может содержать ссылки на сторонние веб-сайты. Эти ссылки предоставляются только для вашего удобства. ADGILI не поддерживает, не контролирует и не несет ответственности за контент или практику сторонних сайтов.",
+    EN: "Our website may contain links to third-party websites. These links are provided for your convenience only. Adgili does not endorse, control, or assume responsibility for the content or practices of any third-party sites. Accessing external links is at your own risk.",
+    GE: "ჩვენი ვებგვერდი შეიძლება შეიცავდეს ბმულებს მესამე მხარის ვებგვერდებზე. ეს ბმულები მოწოდებულია მხოლოდ თქვენი მოხერხებულობისთვის. Adgili არ უჭერს მხარს, არ აკონტროლებს და არ იღებს პასუხისმგებლობას მესამე მხარის საიტების კონტენტზე ან პრაქტიკაზე.",
+    RU: "Наш веб-сайт может содержать ссылки на сторонние веб-сайты. Эти ссылки предоставляются только для вашего удобства. Adgili не поддерживает, не контролирует и не несет ответственности за контент или практику сторонних сайтов.",
   },
   websiteSection4Title: {
     EN: "4. Disclaimer",
@@ -600,9 +600,9 @@ export const translations: Translations = {
     RU: "4. Отказ от ответственности",
   },
   websiteSection4: {
-    EN: "The website and its content are provided 'as is' without warranties of any kind. ADGILI disclaims all warranties, express or implied, including but not limited to merchantability, fitness for a particular purpose, and non-infringement. We do not guarantee that the website will be error-free, secure, or continuously available.",
-    GE: "ვებგვერდი და მისი კონტენტი მოწოდებულია 'როგორც არის' ყოველგვარი გარანტიის გარეშე. ADGILI უარყოფს ყველა გარანტიას, გამოხატულს თუ ნაგულისხმევს, მათ შორის, მაგრამ არ შემოიფარგლება კომერციული ვარგისიანობით, კონკრეტული მიზნისთვის ვარგისიანობით და დარღვევის არარსებობით.",
-    RU: "Веб-сайт и его содержимое предоставляются «как есть» без каких-либо гарантий. ADGILI отказывается от всех гарантий, явных или подразумеваемых, включая, но не ограничиваясь, коммерческую пригодность, пригодность для определенной цели и отсутствие нарушений.",
+    EN: "The website and its content are provided 'as is' without warranties of any kind. Adgili disclaims all warranties, express or implied, including but not limited to merchantability, fitness for a particular purpose, and non-infringement. We do not guarantee that the website will be error-free, secure, or continuously available.",
+    GE: "ვებგვერდი და მისი კონტენტი მოწოდებულია 'როგორც არის' ყოველგვარი გარანტიის გარეშე. Adgili უარყოფს ყველა გარანტიას, გამოხატულს თუ ნაგულისხმევს, მათ შორის, მაგრამ არ შემოიფარგლება კომერციული ვარგისიანობით, კონკრეტული მიზნისთვის ვარგისიანობით და დარღვევის არარსებობით.",
+    RU: "Веб-сайт и его содержимое предоставляются «как есть» без каких-либо гарантий. Adgili отказывается от всех гарантий, явных или подразумеваемых, включая, но не ограничиваясь, коммерческую пригодность, пригодность для определенной цели и отсутствие нарушений.",
   },
   websiteSection5Title: {
     EN: "5. Modifications",
@@ -610,9 +610,9 @@ export const translations: Translations = {
     RU: "5. Изменения",
   },
   websiteSection5: {
-    EN: "ADGILI reserves the right to modify these website terms at any time without prior notice. Changes become effective immediately upon posting. Your continued use of the website after changes constitutes acceptance of the modified terms. We encourage you to review these terms periodically.",
-    GE: "ADGILI იტოვებს უფლებას შეცვალოს ვებგვერდის ეს პირობები ნებისმიერ დროს წინასწარი შეტყობინების გარეშე. ცვლილებები ძალაში შედის გამოქვეყნებისთანავე. ვებგვერდის გამოყენების გაგრძელება ცვლილებების შემდეგ ნიშნავს შეცვლილი პირობების მიღებას.",
-    RU: "ADGILI оставляет за собой право изменять условия использования веб-сайта в любое время без предварительного уведомления. Изменения вступают в силу сразу после публикации. Продолжение использования веб-сайта после изменений означает принятие измененных условий.",
+    EN: "Adgili reserves the right to modify these website terms at any time without prior notice. Changes become effective immediately upon posting. Your continued use of the website after changes constitutes acceptance of the modified terms. We encourage you to review these terms periodically.",
+    GE: "Adgili იტოვებს უფლებას შეცვალოს ვებგვერდის ეს პირობები ნებისმიერ დროს წინასწარი შეტყობინების გარეშე. ცვლილებები ძალაში შედის გამოქვეყნებისთანავე. ვებგვერდის გამოყენების გაგრძელება ცვლილებების შემდეგ ნიშნავს შეცვლილი პირობების მიღებას.",
+    RU: "Adgili оставляет за собой право изменять условия использования веб-сайта в любое время без предварительного уведомления. Изменения вступают в силу сразу после публикации. Продолжение использования веб-сайта после изменений означает принятие измененных условий.",
   },
 
   // GE Business Terms Page
@@ -632,9 +632,9 @@ export const translations: Translations = {
     RU: "1. Партнерское соглашение",
   },
   businessSection1: {
-    EN: "These Business Terms govern the relationship between ADGILI LLC and restaurant partners ('Partners') using our platform. By registering as a business partner, you agree to these terms and our standard commission rates. Partners must be legally registered businesses in Georgia with valid operating licenses.",
-    GE: "ეს ბიზნეს პირობები არეგულირებს ურთიერთობას ADGILI LLC-სა და პარტნიორ რესტორნებს ('პარტნიორები') შორის, რომლებიც იყენებენ ჩვენს პლატფორმას. ბიზნეს პარტნიორად რეგისტრაციით, თქვენ ეთანხმებით ამ პირობებს და ჩვენს სტანდარტულ საკომისიო განაკვეთებს.",
-    RU: "Настоящие Бизнес-условия регулируют отношения между ADGILI LLC и ресторанами-партнерами ('Партнеры'), использующими нашу платформу. Регистрируясь в качестве бизнес-партнера, вы соглашаетесь с этими условиями и нашими стандартными комиссионными ставками.",
+    EN: "These Business Terms govern the relationship between Adgili LLC and restaurant partners ('Partners') using our platform. By registering as a business partner, you agree to these terms and our standard commission rates. Partners must be legally registered businesses in Georgia with valid operating licenses.",
+    GE: "ეს ბიზნეს პირობები არეგულირებს ურთიერთობას Adgili LLC-სა და პარტნიორ რესტორნებს ('პარტნიორები') შორის, რომლებიც იყენებენ ჩვენს პლატფორმას. ბიზნეს პარტნიორად რეგისტრაციით, თქვენ ეთანხმებით ამ პირობებს და ჩვენს სტანდარტულ საკომისიო განაკვეთებს.",
+    RU: "Настоящие Бизнес-условия регулируют отношения между Adgili LLC и ресторанами-партнерами ('Партнеры'), использующими нашу платформу. Регистрируясь в качестве бизнес-партнера, вы соглашаетесь с этими условиями и нашими стандартными комиссионными ставками.",
   },
   businessSection2Title: {
     EN: "2. Commission & Payments",
@@ -642,9 +642,9 @@ export const translations: Translations = {
     RU: "2. Комиссия и платежи",
   },
   businessSection2: {
-    EN: "Partners agree to pay ADGILI a commission on bookings made through our platform. Commission rates vary based on partnership tier and volume. Payments are processed monthly, with detailed reports provided. Partners are responsible for all applicable taxes on their earnings.",
-    GE: "პარტნიორები თანხმდებიან გადაუხადონ ADGILI-ს საკომისიო ჩვენი პლატფორმის საშუალებით განხორციელებულ დაჯავშნებზე. საკომისიო განაკვეთები განსხვავდება პარტნიორობის დონისა და მოცულობის მიხედვით. გადახდები მუშავდება ყოველთვიურად, დეტალური ანგარიშებით.",
-    RU: "Партнеры соглашаются платить ADGILI комиссию за бронирования, сделанные через нашу платформу. Комиссионные ставки варьируются в зависимости от уровня партнерства и объема. Платежи обрабатываются ежемесячно с предоставлением подробных отчетов.",
+    EN: "Partners agree to pay Adgili a commission on bookings made through our platform. Commission rates vary based on partnership tier and volume. Payments are processed monthly, with detailed reports provided. Partners are responsible for all applicable taxes on their earnings.",
+    GE: "პარტნიორები თანხმდებიან გადაუხადონ Adgili-ს საკომისიო ჩვენი პლატფორმის საშუალებით განხორციელებულ დაჯავშნებზე. საკომისიო განაკვეთები განსხვავდება პარტნიორობის დონისა და მოცულობის მიხედვით. გადახდები მუშავდება ყოველთვიურად, დეტალური ანგარიშებით.",
+    RU: "Партнеры соглашаются платить Adgili комиссию за бронирования, сделанные через нашу платформу. Комиссионные ставки варьируются в зависимости от уровня партнерства и объема. Платежи обрабатываются ежемесячно с предоставлением подробных отчетов.",
   },
   businessSection3Title: {
     EN: "3. Listing Requirements",
@@ -652,9 +652,9 @@ export const translations: Translations = {
     RU: "3. Требования к размещению",
   },
   businessSection3: {
-    EN: "Partners must provide accurate and up-to-date information about their establishment, including operating hours, menu, photos, and contact details. ADGILI reserves the right to verify information and request updates. Misleading or false information may result in listing removal.",
-    GE: "პარტნიორებმა უნდა მიაწოდონ ზუსტი და განახლებული ინფორმაცია თავიანთი დაწესებულების შესახებ, მათ შორის სამუშაო საათები, მენიუ, ფოტოები და საკონტაქტო ინფორმაცია. ADGILI იტოვებს უფლებას შეამოწმოს ინფორმაცია და მოითხოვოს განახლებები.",
-    RU: "Партнеры должны предоставлять точную и актуальную информацию о своем заведении, включая часы работы, меню, фотографии и контактные данные. ADGILI оставляет за собой право проверять информацию и запрашивать обновления.",
+    EN: "Partners must provide accurate and up-to-date information about their establishment, including operating hours, menu, photos, and contact details. Adgili reserves the right to verify information and request updates. Misleading or false information may result in listing removal.",
+    GE: "პარტნიორებმა უნდა მიაწოდონ ზუსტი და განახლებული ინფორმაცია თავიანთი დაწესებულების შესახებ, მათ შორის სამუშაო საათები, მენიუ, ფოტოები და საკონტაქტო ინფორმაცია. Adgili იტოვებს უფლებას შეამოწმოს ინფორმაცია და მოითხოვოს განახლებები.",
+    RU: "Партнеры должны предоставлять точную и актуальную информацию о своем заведении, включая часы работы, меню, фотографии и контактные данные. Adgili оставляет за собой право проверять информацию и запрашивать обновления.",
   },
   businessSection4Title: {
     EN: "4. Booking Obligations",
@@ -662,9 +662,9 @@ export const translations: Translations = {
     RU: "4. Обязательства по бронированию",
   },
   businessSection4: {
-    EN: "Partners must honor all confirmed bookings made through ADGILI. Cancellations by the partner must be communicated immediately through our system. Repeated cancellations or failure to honor bookings may result in penalties, reduced visibility, or partnership termination.",
-    GE: "პარტნიორებმა უნდა დაიცვან ADGILI-ს საშუალებით განხორციელებული ყველა დადასტურებული დაჯავშნა. პარტნიორის მიერ გაუქმებები დაუყოვნებლივ უნდა ეცნობოს ჩვენს სისტემის საშუალებით. განმეორებითი გაუქმებები შეიძლება გამოიწვიოს ჯარიმები ან პარტნიორობის შეწყვეტა.",
-    RU: "Партнеры обязаны выполнять все подтвержденные бронирования, сделанные через ADGILI. Об отменах со стороны партнера необходимо немедленно сообщать через нашу систему. Повторные отмены могут привести к штрафам или прекращению партнерства.",
+    EN: "Partners must honor all confirmed bookings made through Adgili. Cancellations by the partner must be communicated immediately through our system. Repeated cancellations or failure to honor bookings may result in penalties, reduced visibility, or partnership termination.",
+    GE: "პარტნიორებმა უნდა დაიცვან Adgili-ს საშუალებით განხორციელებული ყველა დადასტურებული დაჯავშნა. პარტნიორის მიერ გაუქმებები დაუყოვნებლივ უნდა ეცნობოს ჩვენს სისტემის საშუალებით. განმეორებითი გაუქმებები შეიძლება გამოიწვიოს ჯარიმები ან პარტნიორობის შეწყვეტა.",
+    RU: "Партнеры обязаны выполнять все подтвержденные бронирования, сделанные через Adgili. Об отменах со стороны партнера необходимо немедленно сообщать через нашу систему. Повторные отмены могут привести к штрафам или прекращению партнерства.",
   },
   businessSection5Title: {
     EN: "5. Data & Analytics",
@@ -682,9 +682,9 @@ export const translations: Translations = {
     RU: "6. Прекращение",
   },
   businessSection6: {
-    EN: "Either party may terminate this partnership with 30 days written notice. ADGILI may terminate immediately for material breach of these terms. Upon termination, outstanding commissions remain due and payable. Partners must honor any bookings made prior to termination.",
-    GE: "ნებისმიერ მხარეს შეუძლია შეწყვიტოს ეს პარტნიორობა 30 დღიანი წერილობითი შეტყობინებით. ADGILI-ს შეუძლია დაუყოვნებლივ შეწყვიტოს ამ პირობების არსებითი დარღვევის შემთხვევაში. შეწყვეტის შემდეგ, გადაუხდელი საკომისიოები რჩება გადასახდელად.",
-    RU: "Любая сторона может прекратить это партнерство с письменным уведомлением за 30 дней. ADGILI может немедленно прекратить партнерство за существенное нарушение этих условий. После прекращения невыплаченные комиссии остаются к оплате.",
+    EN: "Either party may terminate this partnership with 30 days written notice. Adgili may terminate immediately for material breach of these terms. Upon termination, outstanding commissions remain due and payable. Partners must honor any bookings made prior to termination.",
+    GE: "ნებისმიერ მხარეს შეუძლია შეწყვიტოს ეს პარტნიორობა 30 დღიანი წერილობითი შეტყობინებით. Adgili-ს შეუძლია დაუყოვნებლივ შეწყვიტოს ამ პირობების არსებითი დარღვევის შემთხვევაში. შეწყვეტის შემდეგ, გადაუხდელი საკომისიოები რჩება გადასახდელად.",
+    RU: "Любая сторона может прекратить это партнерство с письменным уведомлением за 30 дней. Adgili может немедленно прекратить партнерство за существенное нарушение этих условий. После прекращения невыплаченные комиссии остаются к оплате.",
   },
 
   // Privacy Page
@@ -714,7 +714,7 @@ export const translations: Translations = {
     RU: "Как мы используем ваши данные",
   },
   privacySection2: {
-    EN: "Your information is used to process and manage your reservations, send booking confirmations and reminders, provide personalized restaurant recommendations, improve our services and user experience, communicate important updates about your account or our services, prevent fraud and ensure platform security, and comply with legal obligations. We analyze aggregated, anonymized data to understand usage patterns and improve ADGILI.",
+    EN: "Your information is used to process and manage your reservations, send booking confirmations and reminders, provide personalized restaurant recommendations, improve our services and user experience, communicate important updates about your account or our services, prevent fraud and ensure platform security, and comply with legal obligations. We analyze aggregated, anonymized data to understand usage patterns and improve Adgili.",
     GE: "თქვენი ინფორმაცია გამოიყენება თქვენი დაჯავშნების დასამუშავებლად და სამართავად, დაჯავშნის დადასტურებებისა და შეხსენებების გასაგზავნად, პერსონალიზებული რესტორნის რეკომენდაციების მოსაწოდებლად, ჩვენი სერვისების და მომხმარებლის გამოცდილების გასაუმჯობესებლად, თქვენი ანგარიშის ან ჩვენი სერვისების შესახებ მნიშვნელოვანი განახლებების შესატყობინებლად.",
     RU: "Ваша информация используется для обработки и управления бронированиями, отправки подтверждений и напоминаний о бронировании, предоставления персонализированных рекомендаций ресторанов, улучшения наших услуг и пользовательского опыта, сообщения важных обновлений о вашей учетной записи или наших услугах.",
   },
@@ -764,9 +764,9 @@ export const translations: Translations = {
     RU: "Свяжитесь с нами",
   },
   privacySection7: {
-    EN: "For any privacy-related questions, concerns, or requests, please contact our Data Protection Officer at hello@adgili.co. You can also reach us through the app's support feature or by mail at ADGILI LLC, Tbilisi, Georgia. We are committed to addressing your concerns promptly and transparently.",
-    GE: "ნებისმიერი კონფიდენციალურობასთან დაკავშირებული კითხვის, შეშფოთების ან მოთხოვნისთვის, გთხოვთ დაუკავშირდეთ ჩვენს მონაცემთა დაცვის ოფიცერს მისამართზე hello@adgili.co. ასევე შეგიძლიათ დაგვიკავშირდეთ აპლიკაციის მხარდაჭერის ფუნქციით ან ფოსტით: ADGILI LLC, თბილისი, საქართველო.",
-    RU: "По любым вопросам, касающимся конфиденциальности, пожалуйста, свяжитесь с нашим специалистом по защите данных по адресу hello@adgili.co. Вы также можете связаться с нами через функцию поддержки в приложении или по почте: ADGILI LLC, Тбилиси, Грузия.",
+    EN: "For any privacy-related questions, concerns, or requests, please contact our Data Protection Officer at hello@Adgili.co. You can also reach us through the app's support feature or by mail at Adgili LLC, Tbilisi, Georgia. We are committed to addressing your concerns promptly and transparently.",
+    GE: "ნებისმიერი კონფიდენციალურობასთან დაკავშირებული კითხვის, შეშფოთების ან მოთხოვნისთვის, გთხოვთ დაუკავშირდეთ ჩვენს მონაცემთა დაცვის ოფიცერს მისამართზე hello@Adgili.co. ასევე შეგიძლიათ დაგვიკავშირდეთ აპლიკაციის მხარდაჭერის ფუნქციით ან ფოსტით: Adgili LLC, თბილისი, საქართველო.",
+    RU: "По любым вопросам, касающимся конфиденциальности, пожалуйста, свяжитесь с нашим специалистом по защите данных по адресу hello@Adgili.co. Вы также можете связаться с нами через функцию поддержки в приложении или по почте: Adgili LLC, Тбилиси, Грузия.",
   },
 
   // Delete Account Page
@@ -776,9 +776,9 @@ export const translations: Translations = {
     RU: "Удалить ваш аккаунт",
   },
   deleteAccountDesc: {
-    EN: "Please provide the same details you used to register. This will permanently delete your account within 30 days including personal data, profile and preferences. Some reservation history may be retained for venue partners. A confirmation email will be sent. Questions? hello@adgili.co",
-    GE: "გთხოვთ მიუთითოთ იგივე მონაცემები, რომლებითაც დარეგისტრირდით. ეს სამუდამოდ წაშლის თქვენს ანგარიშს 30 დღის განმავლობაში, მათ შორის პირად მონაცემებს, პროფილს და პრეფერენციებს. დაჯავშნების ისტორიის ნაწილი შეიძლება შენარჩუნდეს პარტნიორი ადგილებისთვის. დადასტურების ელ.ფოსტა გამოგეგზავნებათ. კითხვები? hello@adgili.co",
-    RU: "Пожалуйста, укажите те же данные, которые вы использовали при регистрации. Это навсегда удалит вашу учетную запись в течение 30 дней, включая личные данные, профиль и предпочтения. Некоторая история бронирований может быть сохранена для партнеров-заведений. Будет отправлено письмо с подтверждением. Вопросы? hello@adgili.co",
+    EN: "Please provide the same details you used to register. This will permanently delete your account within 30 days including personal data, profile and preferences. Some reservation history may be retained for venue partners. A confirmation email will be sent. Questions? hello@Adgili.co",
+    GE: "გთხოვთ მიუთითოთ იგივე მონაცემები, რომლებითაც დარეგისტრირდით. ეს სამუდამოდ წაშლის თქვენს ანგარიშს 30 დღის განმავლობაში, მათ შორის პირად მონაცემებს, პროფილს და პრეფერენციებს. დაჯავშნების ისტორიის ნაწილი შეიძლება შენარჩუნდეს პარტნიორი ადგილებისთვის. დადასტურების ელ.ფოსტა გამოგეგზავნებათ. კითხვები? hello@Adgili.co",
+    RU: "Пожалуйста, укажите те же данные, которые вы использовали при регистрации. Это навсегда удалит вашу учетную запись в течение 30 дней, включая личные данные, профиль и предпочтения. Некоторая история бронирований может быть сохранена для партнеров-заведений. Будет отправлено письмо с подтверждением. Вопросы? hello@Adgili.co",
   },
   reasonForDeletion: {
     EN: "Reason for deletion (optional)",
