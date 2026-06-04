@@ -426,9 +426,9 @@ export const translations: Translations = {
     RU: "Нужен ли аккаунт для бронирования?",
   },
   faqA7: {
-    EN: "Yes, you need to create a free account to make reservations. This allows you to manage your bookings and receive confirmation notifications.",
-    GE: "დიახ, დაჯავშნისთვის საჭიროა უფასო აქაუნთის შექმნა. ეს საშუალებას გაძლევთ მართოთ თქვენი დაჯავშნები და მიიღოთ დადასტურების შეტყობინებები.",
-    RU: "Да, для бронирования необходимо создать бесплатный аккаунт. Это позволяет управлять бронированиями и получать уведомления о подтверждении.",
+    EN: "Yes, you need to create a account to make reservations. This allows you to manage your bookings and receive confirmation notifications.",
+    GE: "დიახ, დაჯავშნისთვის საჭიროა აქაუნთის შექმნა. ეს საშუალებას გაძლევთ მართოთ თქვენი დაჯავშნები და მიიღოთ დადასტურების შეტყობინებები.",
+    RU: "Да, для бронирования необходимо создать аккаунт. Это позволяет управлять бронированиями и получать уведомления о подтверждении.",
   },
   faqQ8: {
     EN: "What happens if the restaurant cancels my booking?",
