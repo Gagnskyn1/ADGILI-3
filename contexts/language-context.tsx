@@ -386,9 +386,9 @@ export const translations: Translations = {
     RU: "ADGILI бесплатно?",
   },
   faqA2: {
-    EN: "Yes, ADGILI is completely free for diners. We don't charge any booking fees.",
-    GE: "დიახ, ADGILI სრულიად უფასოა სტუმრებისთვის. ჩვენ არ ვიღებთ დაჯავშნის საფასურს.",
-    RU: "Да, ADGILI полностью бесплатно для гостей. Мы не взимаем никаких сборов за бронирование.",
+    EN: "Yes, ADGILI is completely free for users. We don't charge any booking fees.",
+    GE: "დიახ, ADGILI სრულიად უფასოა მომხმარებლებისთვის. ჩვენ არ ვიღებთ დაჯავშნის საფასურს.",
+    RU: "Да, ADGILI полностью бесплатно Для пользователей. Мы не взимаем никаких сборов за бронирование.",
   },
   faqQ3: {
     EN: "Can I cancel or modify my reservation?",
