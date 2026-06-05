@@ -764,47 +764,6 @@ export const translations: Translations = {
     RU: "По любым вопросам, касающимся конфиденциальности, пожалуйста, свяжитесь с нашим специалистом по защите данных по адресу hello@Adgili.co. Вы также можете связаться с нами через функцию поддержки в приложении или по почте: Adgili LLC, Тбилиси, Грузия.",
   },
 
-  // Delete Account Page
-  deleteYourAccount: {
-    EN: "Delete Your Account",
-    GE: "თქვენი აქაუნთის წაშლა",
-    RU: "Удалить ваш аккаунт",
-  },
-  deleteAccountDesc: {
-    EN: "Please provide the same details you used to register. This will permanently delete your account within 30 days including personal data, profile and preferences. Some reservation history may be retained for venue partners. A confirmation email will be sent. Questions? hello@Adgili.co",
-    GE: "გთხოვთ მიუთითოთ იგივე მონაცემები, რომლებითაც დარეგისტრირდით. ეს სამუდამოდ წაშლის თქვენს ანგარიშს 30 დღის განმავლობაში, მათ შორის პირად მონაცემებს, პროფილს და პრეფერენციებს. დაჯავშნების ისტორიის ნაწილი შეიძლება შენარჩუნდეს პარტნიორი ადგილებისთვის. დადასტურების ელ.ფოსტა გამოგეგზავნებათ. კითხვები? hello@Adgili.co",
-    RU: "Пожалуйста, укажите те же данные, которые вы использовали при регистрации. Это навсегда удалит вашу учетную запись в течение 30 дней, включая личные данные, профиль и предпочтения. Некоторая история бронирований может быть сохранена для партнеров-заведений. Будет отправлено письмо с подтверждением. Вопросы? hello@Adgili.co",
-  },
-  reasonForDeletion: {
-    EN: "Reason for deletion (optional)",
-    GE: "წაშლის მიზეზი (არასავალდებულო)",
-    RU: "Причина удаления (необязательно)",
-  },
-  reasonPlaceholder: {
-    EN: "Tell us why you're leaving (optional)...",
-    GE: "გვითხარით რატომ გადიხართ (არასავალდებულო)...",
-    RU: "Расскажите, почему вы уходите (необязательно)...",
-  },
-  understandPermanent: {
-    EN: "I understand this is permanent and cannot be undone",
-    GE: "მესმის, რომ ეს სამუდამოა და უკან აღარ დაბრუნდება",
-    RU: "Я понимаю, что это навсегда и не может быть отменено",
-  },
-  submitDeletionRequest: {
-    EN: "Submit Deletion Request",
-    GE: "წაშლის მოთხოვნის გაგზავნა",
-    RU: "Отправить запрос на удаление",
-  },
-  requestSubmitted: {
-    EN: "Request Submitted",
-    GE: "მოთხოვნა გაგზავნილია",
-    RU: "Запрос отправлен",
-  },
-  requestSubmittedDesc: {
-    EN: "We've received your account deletion request. Your account will be permanently deleted within 30 days. You'll receive a confirmation email shortly.",
-    GE: "ჩვენ მივიღეთ თქვენი აქაუნთის წაშლის მოთხოვნა. თქვენი აქაუნთი სამუდამოდ წაიშლება 30 დღის განმავლობაში. მალე მიიღებთ დადასტურების ელ.ფოსტას.",
-    RU: "Мы получили ваш запрос на удаление учетной записи. Ваша учетная запись будет окончательно удалена в течение 30 дней. Вскоре вы получите письмо с подтверждением.",
-  },
 }
 
 interface LanguageContextType {
