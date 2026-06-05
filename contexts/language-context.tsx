@@ -795,11 +795,6 @@ export const translations: Translations = {
     GE: "მესმის, რომ ეს სამუდამოა და უკან აღარ დაბრუნდება",
     RU: "Я понимаю, что это навсегда и не может быть отменено",
   },
-  submitDeletionRequest: {
-    EN: "Submit Deletion Request",
-    GE: "წაშლის მოთხოვნის გაგზავნა",
-    RU: "Отправить запрос на удаление",
-  },
   requestSubmitted: {
     EN: "Request Submitted",
     GE: "მოთხოვნა გაგზავნილია",
