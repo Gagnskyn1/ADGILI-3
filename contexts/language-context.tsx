@@ -348,11 +348,6 @@ export const translations: Translations = {
     GE: "GE ბიზნეს წესები და პირობები",
     RU: "GE Условия для бизнеса",
   },
-  deleteAccount: {
-    EN: "Delete Account",
-    GE: "ანგარიშის წაშლა",
-    RU: "Удалить аккаунт",
-  },
   copyright: {
     EN: "© 2026 Adgili. All rights reserved.",
     GE: "© 2026 Adgili. ყველა უფლება დაცულია.",
