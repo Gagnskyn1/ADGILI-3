@@ -49,12 +49,6 @@ export function Footer() {
             >
               {t("businessTermsConditions")}
             </Link>
-            <Link
-              href="/delete-account"
-              className="text-[#8a9a9d] hover:text-[#c9a86c] transition-colors text-sm"
-            >
-              {t("deleteAccount")}
-            </Link>
           </nav>
         </div>
 
