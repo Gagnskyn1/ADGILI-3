@@ -18,6 +18,11 @@ export const metadata: Metadata = {
   title: 'Adgili - Georgia\'s #1 Restaurant Booking App',
   description: 'Book your table in two clicks. Discover the best restaurants in Georgia with Adgili.',
   keywords: ['restaurant booking', 'Georgia', 'dining', 'reservations', 'Adgili'],
+  icons: {
+    icon: '/favicon.ico',
+    shortcut: '/favicon-32x32.png',
+    apple: '/apple-touch-icon.png',
+  },
 }
 
 export const viewport = {
