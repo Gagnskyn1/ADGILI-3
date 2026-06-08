@@ -199,7 +199,7 @@ export function GetTheApp() {
             {t("getTheAppSubtext")}
           </p>
 
-          <div className="flex justify-center gap-6">
+         <div className="flex justify-center gap-6">
             
               href="https://apps.apple.com"
               target="_blank"
