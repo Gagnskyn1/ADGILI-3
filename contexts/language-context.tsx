@@ -441,7 +441,7 @@ export const translations: Translations = {
     RU: "Можно ли бронировать для больших групп?",
   },
   faqA8: {
-    EN: "Yes, you can book for any number of people through the app. For larger events, we recommend contacting the restaurant directly through our messaging feature.",
+    EN: "Yes, you can book for any number of people through the app. For larger events, we recommend contacting the restaurant directly for further information.",
     GE: "დიახ, შეგიძლიათ დაჯავშნოთ ნებისმიერი რაოდენობის ადამიანისთვის აპლიკაციის საშუალებით. დამატებითი კითხვებთან დაკავშირებით გთხოვთ დააზუსტოდ ინფორმაცია რესტორანთან",
     RU: "Да, через приложение можно забронировать место для любого количества человек. Для более крупных мероприятий рекомендуем связаться с рестораном напрямую через нашу функцию сообщений.",
   },
