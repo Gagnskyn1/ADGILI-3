@@ -50,7 +50,7 @@ export default function FAQsPage() {
                 </button>
                 <div 
                   className={`overflow-hidden transition-all duration-300 ${
-                    openIndex === index ? "max-h-[800]" : "max-h-0"
+                    openIndex === index ? "max-h-[1200]" : "max-h-0"
                   }`}
                 >
                   <p className="px-6 pb-6 text-[#8a9a9d] leading-relaxed" style={{ whiteSpace: "pre-line" }}>{t(faq.aKey)}</p>
