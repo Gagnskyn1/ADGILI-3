@@ -437,7 +437,7 @@ export const translations: Translations = {
   },
   faqQ8: {
     EN: "Is it possible to make a reservation in advance for a large number of guests?",
-    GE: "შესაძლებელია თუ არა დიდი რაოდენობის სტუმრებისთვის წინასწარი დაჯავშნა??",
+    GE: "შესაძლებელია თუ არა დიდი რაოდენობის სტუმრებისთვის წინასწარი დაჯავშნა?",
     RU: "Можно ли бронировать для больших групп?",
   },
   faqA8: {
