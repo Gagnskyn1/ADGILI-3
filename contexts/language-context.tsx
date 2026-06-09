@@ -391,9 +391,9 @@ export const translations: Translations = {
     RU: "Могу ли я отменить или изменить бронирование?",
   },
   faqA3: {
-    EN: "Yes, you can cancel or modify your reservation through the app up to 2 hours before your booking time.",
+    EN: "Yes, you can cancel or modify your reservation through the app up to 4 hours before your booking time.",
     GE: "დიახ, შეგიძლიათ გააუქმოთ ან შეცვალოთ დაჯავშნა აპლიკაციის საშუალებით დაჯავშნის დრომდე 4 საათით ადრე.",
-    RU: "Да, вы можете отменить или изменить бронирование через приложение за 2 часа до назначенного времени.",
+    RU: "Да, вы можете отменить или изменить бронирование через приложение за 4 часа до назначенного времени.",
   },
   faqQ4: {
     EN: "What cities does Adgili cover?",
