@@ -168,7 +168,7 @@ export const translations: Translations = {
   whatIsAdgiliDesc2: {
     EN: "Our mission is to make restaurant reservations effortless while helping local restaurants thrive. With real-time availability, instant confirmation, and exclusive deals, Adgili transforms how people in Georgia dine out.",
     GE: "ჩვენი მიზანია რესტორნების დაჯავშნა მარტივი გავხადოთ და ადგილობრივ რესტორნებს განვითარებაში დავეხმაროთ. რეალურ დროში ხელმისაწვდომობით, მყისიერი დადასტურებით და ექსკლუზიური შეთავაზებებით, Adgili ცვლის საქართველოში ხალხის რესტორანში სტუმრობის გამოცდილებას.",
-    RU: "Наша миссия сделать бронирование ресторанов легким, помогая местным ресторанам процветать. Благодаря доступности в реальном времени, мгновенному подтверждению и эксклюзивным предложениям, დასდას",
+    RU: "Наша миссия сделать бронирование ресторанов легким, помогая местным ресторанам процветать. Благодаря доступности в реальном времени, мгновенному подтверждению и эксклюзивным предложениям, Adgili меняет опыт посещения ресторанов в Грузии.",
   },
   instantBooking: {
     EN: "Instant Booking",
