@@ -53,7 +53,7 @@ function PhoneMockup() {
           <div className="bg-[#1e3235] rounded-xl p-3 border border-[#2a4245]">
             <div className="w-full h-20 bg-[#2a4245] rounded-lg mb-2" />
             <p className="text-xs text-[#f5f5f5] font-medium">Shavi Lomi</p>
-            <p className="text-[10px] text-[#8a9a9d]">{t("fineDining")} • $$$</p>
+            <p className="text-[10px] text-[#8a9a9d]">{t("fineDining")} • ₾₾₾</p>
             <button type="button" className="mt-2 w-full bg-[#c9a86c] text-[#0f1a1c] text-xs py-1.5 rounded-lg font-medium">{t("book")}</button>
           </div>
         </div>
