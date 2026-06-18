@@ -47,13 +47,13 @@ function PhoneMockup() {
           <div className="bg-[#1e3235] rounded-xl p-3 border border-[#2a4245]">
             <div className="w-full h-20 bg-[#2a4245] rounded-lg mb-2" />
             <p className="text-xs text-[#f5f5f5] font-medium">Café Stamba</p>
-            <p className="text-[10px] text-[#8a9a9d]">{t("georgianCuisine")} • $$</p>
+            <p className="text-[10px] text-[#8a9a9d]">{t("georgianCuisine")} • ₾₾</p>
             <button type="button" className="mt-2 w-full bg-[#c9a86c] text-[#0f1a1c] text-xs py-1.5 rounded-lg font-medium">{t("book")}</button>
           </div>
           <div className="bg-[#1e3235] rounded-xl p-3 border border-[#2a4245]">
             <div className="w-full h-20 bg-[#2a4245] rounded-lg mb-2" />
             <p className="text-xs text-[#f5f5f5] font-medium">Shavi Lomi</p>
-            <p className="text-[10px] text-[#8a9a9d]">{t("fineDining")} • $$$</p>
+            <p className="text-[10px] text-[#8a9a9d]">{t("fineDining")} • ₾₾₾</p>
             <button type="button" className="mt-2 w-full bg-[#c9a86c] text-[#0f1a1c] text-xs py-1.5 rounded-lg font-medium">{t("book")}</button>
           </div>
         </div>
@@ -81,13 +81,13 @@ function PhoneMockup() {
       content: (
         <div className="space-y-3">
           <h3 className="text-sm font-semibold text-[#f5f5f5]">{t("selectTime")}</h3>
-          <p className="text-[10px] text-[#8a9a9d]">May 15, 2025 • 2 {t("guests")}</p>
+          <p className="text-[10px] text-[#8a9a9d]">June 15, 2026 • 2 {t("guests")}</p>
           <div className="grid grid-cols-3 gap-2">
             {["18:00", "18:30", "19:00", "19:30", "20:00", "20:30"].map((time, i) => (
               <button
                 key={time}
                 type="button"
-                className={`text-[10px] py-2 rounded-lg font-medium transition-all ${
+                className={`text-[10px] py-2 rounded-lg font-medium transition-all ₾
                   i === 2
                     ? "bg-[#c9a86c] text-[#0f1a1c]"
                     : "bg-[#1e3235] text-[#f5f5f5] border border-[#2a4245]"
@@ -114,7 +114,7 @@ function PhoneMockup() {
           <h3 className="text-sm font-semibold text-[#c9a86c] mb-1">{t("bookingConfirmed")}</h3>
           <p className="text-[10px] text-[#8a9a9d] text-center">
             Café Stamba<br />
-            May 15, 2025 at 19:00<br />
+            June 15, 2026 at 19:00<br />
             2 {t("guests")}
           </p>
         </div>
