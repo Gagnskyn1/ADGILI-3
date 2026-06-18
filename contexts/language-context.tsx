@@ -760,7 +760,7 @@ export const translations: Translations = {
   },
   privacySection7: {
     EN: "For any privacy-related questions, concerns, or requests, please contact our Data Protection Officer at helloadgili@gmail.com. You can also reach us through the app's support feature or by mail at Adgili LLC, Tbilisi, Georgia. We are committed to addressing your concerns promptly and transparently.",
-    GE: "ნებისმიერი კონფიდენციალურობასთან დაკავშირებული კითხვის, შეშფოთების ან მოთხოვნისთვის, გთხოვთ დაუკავშირდეთ ჩვენს მონაცემთა დაცვის ოფიცერს მისამართზე hello@Adgili.co. ასევე შეგიძლიათ დაგვიკავშირდეთ აპლიკაციის მხარდაჭერის ფუნქციით ან ფოსტით: Adgili LLC, თბილისი, საქართველო.",
+    GE: "ნებისმიერი კონფიდენციალურობასთან დაკავშირებული კითხვის, შეშფოთების ან მოთხოვნისთვის, გთხოვთ დაუკავშირდეთ ჩვენს მონაცემთა დაცვის ოფიცერს მისამართზე helloadgili@gmail.com. ასევე შეგიძლიათ დაგვიკავშირდეთ აპლიკაციის მხარდაჭერის ფუნქციით ან ფოსტით: Adgili LLC, თბილისი, საქართველო.",
     RU: "По любым вопросам, касающимся конфиденциальности, пожалуйста, свяжитесь с нашим специалистом по защите данных по адресу hello@Adgili.co. Вы также можете связаться с нами через функцию поддержки в приложении или по почте: Adgili LLC, Тбилиси, Грузия.",
   },
 
