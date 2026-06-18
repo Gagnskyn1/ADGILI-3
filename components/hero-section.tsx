@@ -114,7 +114,7 @@ function PhoneMockup() {
           <h3 className="text-sm font-semibold text-[#c9a86c] mb-1">{t("bookingConfirmed")}</h3>
           <p className="text-[10px] text-[#8a9a9d] text-center">
             Café Stamba<br />
-            May 15, 2026 at 19:00<br />
+            June 15, 2026 at 19:00<br />
             2 {t("guests")}
           </p>
         </div>
