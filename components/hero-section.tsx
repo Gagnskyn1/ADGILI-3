@@ -87,7 +87,7 @@ function PhoneMockup() {
               <button
                 key={time}
                 type="button"
-                className={`text-[10px] py-2 rounded-lg font-medium transition-all ${
+                className={`text-[10px] py-2 rounded-lg font-medium transition-all ₾
                   i === 2
                     ? "bg-[#c9a86c] text-[#0f1a1c]"
                     : "bg-[#1e3235] text-[#f5f5f5] border border-[#2a4245]"
