@@ -166,7 +166,7 @@ export const translations: Translations = {
     RU: 'Adgili (что означает «место» на грузинском)  это ваш путь к открытию и бронированию лучших гастрономических впечатлений по всей Грузии. Мы соединяем любителей еды с исключительными ресторанами, от традиционной грузинской кухни до современных фьюжн-блюд.',
   },
   whatIsAdgiliDesc2: {
-    EN: "Our mission is to make restaurant reservations effortless while helping local restaurants thrive. With real-time availability, instant confirmation, and exclusive deals, Adgili transforms how Georgians dine out.",
+    EN: "Our mission is to make restaurant reservations effortless while helping local restaurants thrive. With real-time availability, instant confirmation, and exclusive deals, Adgili transforms how people in Georgia dine out.",
     GE: "ჩვენი მიზანია რესტორნების დაჯავშნა მარტივი გავხადოთ და ადგილობრივ რესტორნებს განვითარებაში დავეხმაროთ. რეალურ დროში ხელმისაწვდომობით, მყისიერი დადასტურებით და ექსკლუზიური შეთავაზებებით, Adgili ცვლის ქართველების რესტორანში სტუმრობის გამოცდილებას.",
     RU: "Наша миссия сделать бронирование ресторанов легким, помогая местным ресторанам процветать. Благодаря доступности в реальном времени, мгновенному подтверждению и эксклюзивным предложениям, Adgili меняет то, как грузины обедают вне дома.",
   },
