@@ -98,7 +98,7 @@ export const translations: Translations = {
   },
   heroSubtext: {
     EN: "Modern ways to book and manage your dining experience. Discover and reserve tables at the finest restaurants across Georgia. From cozy cafes to fine dining experiences, all in one app",
-    GE: "თანამედროვე გზები იმისთვის, რომ დაჯავშნო და მართო შენი გასტრონომიული გამოცდილება.",
+    GE: "თანამედროვე გზები იმისთვის, რომ დაჯავშნო და მართო შენი გასტრონომიული გამოცდილება. აღმოაჩინეთ და დაჯავშნეთ მაგიდები საქართველოს საუკეთესო რესტორნებში. კაფეებიდან საუკეთესო რესტორნებამდე, ყველაფერი ერთ აპლიკაციაში.",
     RU: "Современный способ бронировать столики и управлять своим гастрономическим опытом.",
   },
 
