@@ -186,9 +186,9 @@ export const translations: Translations = {
     RU: "Мобильное приложение",
   },
   availableOnIosAndroid: {
-    EN: "Available on iOS & Android",
-    GE: "ხელმისაწვდომია iOS & Android-ზე",
-    RU: "Доступно на iOS и Android",
+    EN: "Available on iOS",
+    GE: "ხელმისაწვდომია iOS-ზე",
+    RU: "Доступно на iOS",
   },
   searchVenues: {
     EN: "Search venues",
