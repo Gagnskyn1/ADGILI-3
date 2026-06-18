@@ -81,7 +81,7 @@ function PhoneMockup() {
       content: (
         <div className="space-y-3">
           <h3 className="text-sm font-semibold text-[#f5f5f5]">{t("selectTime")}</h3>
-          <p className="text-[10px] text-[#8a9a9d]">May 15, 2025 • 2 {t("guests")}</p>
+          <p className="text-[10px] text-[#8a9a9d]">May 15, 2026 • 2 {t("guests")}</p>
           <div className="grid grid-cols-3 gap-2">
             {["18:00", "18:30", "19:00", "19:30", "20:00", "20:30"].map((time, i) => (
               <button
