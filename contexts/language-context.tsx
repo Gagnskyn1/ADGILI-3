@@ -705,8 +705,8 @@ export const translations: Translations = {
   },
   privacySection2Title: {
     EN: "2. Who We Are — Data Controller",
-    GE: "როგორ ვიყენებთ თქვენს მონაცემებს",
-    RU: "Как мы используем ваши данные",
+    GE: "2. ვინ ვართ ჩვენ — მონაცემთა კონტროლერი",
+    RU: "2. Кто мы — Контролёр данных",
   },
   privacySection2: {
     EN: "Adgili is the controller of the personal data you provide through the App. This means we are responsible for determining how and why your data is used.\n\nContact: helloadgili@gmail.com\nRegistered address: Batumi, Adjara, Georgia",
@@ -809,7 +809,7 @@ export const translations: Translations = {
     RU: "Ваши права",
   },
   privacySection12: {
-    EN: "Under Georgian data protection law and, to the extent applicable, the GDPR, you have the following rights with respect to your personal data:\n\n• Right of access — to request a copy of the personal data we hold about you.\n• Right to rectification — to ask us to correct inaccurate or incomplete data.\n• Right to erasure — to request that we delete your personal data, subject to our legal retention obligations.\n• Right to restriction of processing — to ask us to pause processing of your data in certain circumstances.\n• Right to data portability — to receive your data in a structured, machine-readable format where processing is based on consent or contract.\n• Right to object — to object to processing based on legitimate interests.\n• Right to withdraw consent — where processing is based on your consent, you may withdraw it at any time without affecting the lawfulness of prior processing.\n\nTo exercise any of these rights, please contact us at hello@adgili.ge. We will respond within 30 days. We may ask you to verify your identity before acting on your request.\n\nYou also have the right to lodge a complaint with the Personal Data Protection Service of Georgia (www.pdp.ge), or with the supervisory authority of an EU member state if you are based in the EU.",
+    EN: "Under Georgian data protection law and, to the extent applicable, the GDPR, you have the following rights with respect to your personal data:\n\n• Right of access — to request a copy of the personal data we hold about you.\n• Right to rectification — to ask us to correct inaccurate or incomplete data.\n• Right to erasure — to request that we delete your personal data, subject to our legal retention obligations.\n• Right to restriction of processing — to ask us to pause processing of your data in certain circumstances.\n• Right to data portability — to receive your data in a structured, machine-readable format where processing is based on consent or contract.\n• Right to object — to object to processing based on legitimate interests.\n• Right to withdraw consent — where processing is based on your consent, you may withdraw it at any time without affecting the lawfulness of prior processing.\n\nTo exercise any of these rights, please contact us at helloadgili@gmail.com. We will respond within 30 days. We may ask you to verify your identity before acting on your request.\n\nYou also have the right to lodge a complaint with the Personal Data Protection Service of Georgia (www.pdp.ge), or with the supervisory authority of an EU member state if you are based in the EU.",
     GE: "თქვენ გაქვთ უფლება ნებისმიერ დროს მიიღოთ წვდომა, შეასწოროთ ან წაშალოთ თქვენი პირადი ინფორმაცია. შეგიძლიათ მოითხოვოთ ყველა მონაცემის ასლი, რომელსაც თქვენ შესახებ ვფლობთ პორტატულ ფორმატში. თქვენ გაქვთ უფლება შეზღუდოთ ან გააპროტესტოთ თქვენი მონაცემების გარკვეული დამუშავება.",
     RU: "Вы имеете право получить доступ, исправить или удалить вашу личную информацию в любое время. Вы можете запросить копию всех данных, которые мы храним о вас, в портативном формате. Вы имеете право ограничить или возразить против определенной обработки ваших данных.",
   },
@@ -839,7 +839,7 @@ export const translations: Translations = {
     RU: "Свяжитесь с нами",
   },
   privacySection15: {
-    EN: "If you have any questions about this Policy, wish to exercise your rights, or want to raise a concern, please contact us:\n\nAdgili\nEmail: hello@adgili.ge\nAddress: Batumi, Adjara, Georgia\n\nWe will do our best to address your concern promptly. If you are not satisfied with our response, you have the right to escalate to the Personal Data Protection Service of Georgia (www.pdp.ge).\n\nAdgili — Your spot, reserved.",
+    EN: "If you have any questions about this Policy, wish to exercise your rights, or want to raise a concern, please contact us:\n\nAdgili\nEmail: helloadgili@gmail.com\nAddress: Batumi, Adjara, Georgia\n\nWe will do our best to address your concern promptly. If you are not satisfied with our response, you have the right to escalate to the Personal Data Protection Service of Georgia (www.pdp.ge).\n\nAdgili — Your spot, reserved.",
     GE: "ნებისმიერი კონფიდენციალურობასთან დაკავშირებული კითხვის, შეშფოთების ან მოთხოვნისთვის, გთხოვთ დაუკავშირდეთ ჩვენს მონაცემთა დაცვის ოფიცერს მისამართზე helloadgili@gmail.com. ასევე შეგიძლიათ დაგვიკავშირდეთ აპლიკაციის მხარდაჭერის ფუნქციით ან ფოსტით: Adgili LLC, თბილისი, საქართველო.",
     RU: "По любым вопросам, касающимся конфиденциальности, пожалуйста, свяжитесь с нашим специалистом по защите данных по адресу helloadgili@gmail.com. Вы также можете связаться с нами через функцию поддержки в приложении или по почте: Adgili LLC, Тбилиси, Грузия.",
   },
