@@ -694,7 +694,7 @@ export const translations: Translations = {
     RU: "конфиденциальности",
   },
   privacySection1Title: {
-    EN: "Data We Collect",
+    EN: "Introduction",
     GE: "მონაცემები, რომლებსაც ვაგროვებთ",
     RU: "Данные, которые мы собираем",
   },
