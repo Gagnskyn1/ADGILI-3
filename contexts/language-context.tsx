@@ -725,8 +725,8 @@ export const translations: Translations = {
   },
   privacySection4Title: {
     EN: "4. How We Collect Your Data",
-    GE: "მესამე მხარეებთან გაზიარება",
-    RU: "Передача третьим лицам",
+    GE: "4. როგორ ვაგროვებთ თქვენს მონაცემებს",
+    RU: "4. Как мы собираем ваши данные",
   },
   privacySection4: {
     EN: "We collect your personal data through the following means:\n\n• Directly from you, when you register an account, make a reservation, browse venues, follow a restaurant profile, or contact us\n• Automatically, through your interactions with the App (pages visited, searches performed, reservations created or cancelled)",
