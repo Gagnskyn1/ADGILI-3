@@ -730,7 +730,7 @@ export const translations: Translations = {
   },
   privacySection4: {
     EN: "We collect your personal data through the following means:\n\n• Directly from you, when you register an account, make a reservation, browse venues, follow a restaurant profile, or contact us\n• Automatically, through your interactions with the App (pages visited, searches performed, reservations created or cancelled)",
-    GE: "ჩვენ ვუზიარებთ საჭირო დაჯავშნის ინფორმაციას პარტნიორ რესტორნებს თქვენი დაჯავშნების დასადასტურებლად და სამართავად. ჩვენ შეიძლება გავუზიაროთ ანონიმიზირებული, აგრეგირებული მონაცემები ანალიტიკის პროვაიდერებს ჩვენი სერვისების გასაუმჯობესებლად. ჩვენ არ ვყიდით თქვენს პირად ინფორმაციას მესამე მხარეებს მარკეტინგული მიზნებისთვის.",
+    GE: "პერსონალური მონაცემების შეგროვება ხდება შემდეგი გზით:\n\n• Directly from you, when you register an account, make a reservation, browse venues, follow a restaurant profile, or contact us\n• Automatically, through your interactions with the App (pages visited, searches performed, reservations created or cancelled)",
     RU: "Мы делимся необходимой информацией о бронировании с партнерами-ресторанами для подтверждения и управления вашими бронированиями. Мы можем делиться анонимизированными, агрегированными данными с аналитическими провайдерами для улучшения наших услуг. Мы не продаем вашу личную информацию третьим лицам для маркетинговых целей.",
   },
   privacySection5Title: {
