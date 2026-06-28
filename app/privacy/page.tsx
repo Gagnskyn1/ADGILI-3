@@ -15,6 +15,14 @@ export default function PrivacyPage() {
     { titleKey: "privacySection5Title", contentKey: "privacySection5" },
     { titleKey: "privacySection6Title", contentKey: "privacySection6" },
     { titleKey: "privacySection7Title", contentKey: "privacySection7" },
+    { titleKey: "privacySection8Title", contentKey: "privacySection8" },
+    { titleKey: "privacySection9Title", contentKey: "privacySection9" },
+    { titleKey: "privacySection10Title", contentKey: "privacySection10" },
+    { titleKey: "privacySection11Title", contentKey: "privacySection11" },
+    { titleKey: "privacySection12Title", contentKey: "privacySection12" },
+    { titleKey: "privacySection13Title", contentKey: "privacySection13" },
+    { titleKey: "privacySection14Title", contentKey: "privacySection14" },
+    { titleKey: "privacySection15Title", contentKey: "privacySection15" },
   ]
 
   return (
@@ -29,7 +37,7 @@ export default function PrivacyPage() {
             {sections.map((section, index) => (
               <section key={index}>
                 <h2 className="text-xl font-semibold text-[#c9a86c] mb-3">{t(section.titleKey)}</h2>
-                <p className="leading-relaxed">{t(section.contentKey)}</p>
+                <p className="leading-relaxed whitespace-pre-line">{t(section.contentKey)}</p>
               </section>
             ))}
           </div>
