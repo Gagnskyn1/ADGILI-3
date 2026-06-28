@@ -745,8 +745,8 @@ export const translations: Translations = {
   },
   privacySection6Title: {
     EN: "6. QR Codes and In-Venue Experience",
-    GE: "ქუქი-ფაილები და თვალყურის დევნება",
-    RU: "Файлы cookie и отслеживание",
+    GE: "6. QR კოდები და ობიექტში მომსახურება",
+    RU: "6. QR-коды и обслуживание в заведении",
   },
   privacySection6: {
     EN: "The App uses two types of QR codes:\n\n6.1 Entry QR Code\nWhen you complete a reservation, the App generates a unique QR code linked to your booking. When you arrive at the venue, the host scans this code to verify your reservation and assign you a table. The scan logs your arrival as part of your visit history in the App.\n\n6.2 Digital Menu QR Code\nOnce you are seated, a second QR code is available at your table which, when scanned, opens the restaurant's digital menu. Scanning this code does not generate or transmit any additional personal data about you beyond confirming that a user with an active reservation at that table accessed the menu.",
