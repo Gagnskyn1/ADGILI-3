@@ -711,7 +711,7 @@ export const translations: Translations = {
   privacySection2: {
     EN: "Adgili is the controller of the personal data you provide through the App. This means we are responsible for determining how and why your data is used.\n\nContact: helloadgili@gmail.com\nRegistered address: Batumi, Adjara, Georgia",
     GE: "Adgili არის აპის საშუალებით მოწოდებული პერსონალური მონაცემების კონტროლერი. ეს ნიშნავს, რომ ჩვენ ვპასუხობთ იმაზე, თუ როგორ და რატომ გამოიყენება თქვენი მონაცემები.\n\nსაკონტაქტო ინფორმაცია: helloadgili@gmail.com\nრეგისტრირებული მისამართი: ბათუმი, აჭარა, საქართველო",
-    RU: "Ваша информация используется для обработки и управления бронированиями, отправки подтверждений и напоминаний о бронировании, предоставления персонализированных рекомендаций ресторанов, улучшения наших услуг и пользовательского опыта, сообщения важных обновлений о вашей учетной записи или наших услугах.",
+    RU: "Adgili является контролёром персональных данных, которые вы предоставляете через Приложение. Это означает, что мы несём ответственность за определение того, как и для каких целей используются ваши данные.\n\nКонтакт: helloadgili@gmail.com\nЮридический адрес: Батуми, Аджария, Грузия",
   },
   privacySection3Title: {
     EN: "3. What Personal Data We Collect",
