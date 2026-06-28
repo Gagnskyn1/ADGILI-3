@@ -694,9 +694,9 @@ export const translations: Translations = {
     RU: "конфиденциальности",
   },
   privacySection1Title: {
-    EN: "Data We Collect",
-    GE: "მონაცემები, რომლებსაც ვაგროვებთ",
-    RU: "Данные, которые мы собираем",
+    EN: "Introduction",
+    GE: "შესავალი",
+    RU: "Введение",
   },
   privacySection1: {
     EN: "We collect information you provide directly, including your full name, email address, phone number, date of birth, and profile preferences. We also automatically collect device information, IP address, location data (with your permission), app usage statistics, and interaction data such as restaurants viewed, searches performed, and bookings made. This information helps us personalize your experience and improve our services.",
