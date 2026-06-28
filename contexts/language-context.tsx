@@ -694,76 +694,155 @@ export const translations: Translations = {
     RU: "конфиденциальности",
   },
   privacySection1Title: {
-    EN: "Introduction",
+    EN: "1. Introduction",
     GE: "შესავალი",
     RU: "Введение",
   },
   privacySection1: {
-    EN: "We collect information you provide directly, including your full name, email address, phone number, date of birth, and profile preferences. We also automatically collect device information, IP address, location data (with your permission), app usage statistics, and interaction data such as restaurants viewed, searches performed, and bookings made. This information helps us personalize your experience and improve our services.",
+    EN: "Adgili (\"we\", \"us\", \"our\") is a table reservation platform developed and operated by Adgili, a partnership registered in Georgia (the country), dedicated to helping users discover restaurants, cafes, and dining venues and reserve tables through our mobile and web application (the \"App\").\n\nThis Privacy Policy (the \"Policy\") explains what personal data we collect when you use our App, how we use and protect it, with whom we may share it, and what rights you have over it.\n\nBy creating an account or using the App, you agree to this Policy. If you do not agree, please stop using the App. We may update this Policy from time to time; we will notify you of significant changes through the App.\n\nThe App is not directed at children under the age of 16. We do not knowingly collect personal data from children. If you believe we have done so inadvertently, please contact us at the address in Section 10.",
     GE: "ჩვენ ვაგროვებთ ინფორმ  ციას, რომელსაც პირდაპირ მოგვაწვდით, მათ შორის თქვენი სრული სახელი, ელ.ფოსტის მისამართი, ტელეფონის ნომერი, დაბადების თარიღი და პროფილის პრეფერენციები. ჩვენ ასევე ავტომატურად ვაგროვებთ მოწყობილობის ინფორმაციას, IP მისამართს, მდებარეობის მონაცემებს (თქვენი ნებართვით), აპლიკაციის გამოყენების სტატისტიკას და ინტერაქციის მონაცემებს.",
     RU: "Мы собираем информацию, которую вы предоставляете напрямую, включая ваше полное имя, адрес электронной почты, номер телефона, дату рождения и предпочтения профиля. Мы также автоматически собираем информацию об устройстве, IP-адрес, данные о местоположении (с вашего разрешения), статистику использования приложения и данные взаимодействия.",
   },
   privacySection2Title: {
-    EN: "How We Use Your Data",
+    EN: "2. Who We Are — Data Controller",
     GE: "როგორ ვიყენებთ თქვენს მონაცემებს",
     RU: "Как мы используем ваши данные",
   },
   privacySection2: {
-    EN: "Your information is used to process and manage your reservations, send booking confirmations and reminders, provide personalized restaurant recommendations, improve our services and user experience, communicate important updates about your account or our services, prevent fraud and ensure platform security, and comply with legal obligations. We analyze aggregated, anonymized data to understand usage patterns and improve Adgili.",
+    EN: "Adgili is the controller of the personal data you provide through the App. This means we are responsible for determining how and why your data is used.\n\nContact: hello@adgili.ge\nRegistered address: Batumi, Adjara, Georgia",
     GE: "თქვენი ინფორმაცია გამოიყენება თქვენი დაჯავშნების დასამუშავებლად და სამართავად, დაჯავშნის დადასტურებებისა და შეხსენებების გასაგზავნად, პერსონალიზებული რესტორნის რეკომენდაციების მოსაწოდებლად, ჩვენი სერვისების და მომხმარებლის გამოცდილების გასაუმჯობესებლად, თქვენი ანგარიშის ან ჩვენი სერვისების შესახებ მნიშვნელოვანი განახლებების შესატყობინებლად.",
     RU: "Ваша информация используется для обработки и управления бронированиями, отправки подтверждений и напоминаний о бронировании, предоставления персонализированных рекомендаций ресторанов, улучшения наших услуг и пользовательского опыта, сообщения важных обновлений о вашей учетной записи или наших услугах.",
   },
   privacySection3Title: {
-    EN: "Data Storage & Security",
+    EN: "3. What Personal Data We Collect",
     GE: "მონაცემთა შენახვა და უსაფრთხოება",
     RU: "Хранение и безопасность данных",
   },
   privacySection3: {
-    EN: "Your data is stored on secure servers located in the European Union, compliant with GDPR standards. We implement industry-standard security measures including encryption at rest and in transit, regular security audits, access controls, and intrusion detection systems. We retain your personal data for as long as your account is active or as needed to provide services. After account deletion, we retain anonymized data for analytical purposes and certain data as required by law.",
+    EN: "When you register and use the App, we may collect the following categories of personal data:\n\n3.1 Account & Identity Data\n• Full name (first and last name)\n• Email address\n• Hashed password (we never store your password in readable form)\n\n3.2 Contact Data\n• Mobile phone number (used solely so a restaurant may contact you about your reservation in exceptional circumstances)\n\n3.3 Reservation & Usage Data\n• Restaurants searched, browsed, and followed\n• Reservation details: date, time, number of guests, and restaurant chosen\n• Visit history: record of confirmed reservations and visits\n• Dining preferences inferred from your reservation history and browsing behaviour within the App\n\n3.4 Technical Data\n• IP address\n• Device type and operating system\n• App version and session logs\n\n3.5 Data We Do NOT Collect\nWe do not collect:\n• Payment or financial data (no in-app payments exist at this stage)\n• Special category data (race, religion, health, political opinions, sexual orientation, biometric data, etc.)\n• Data from third-party login providers (we use email/password only)\n• Location data beyond the city or region you select in the App filters",
     GE: "თქვენი მონაცემები ინახება უსაფრთხო სერვერებზე, რომლებიც მდებარეობს ევროკავშირში და შეესაბამება GDPR სტანდარტებს. ჩვენ ვახორციელებთ ინდუსტრიის სტანდარტულ უსაფრთხოების ზომებს, მათ შორის დაშიფვრას, რეგულარულ უსაფრთხოების აუდიტს, წვდომის კონტროლს და შეჭრის აღმოჩენის სისტემებს.",
     RU: "Ваши данные хранятся на защищенных серверах, расположенных в Европейском Союзе, в соответствии со стандартами GDPR. Мы применяем стандартные отраслевые меры безопасности, включая шифрование, регулярные аудиты безопасности, контроль доступа и системы обнаружения вторжений.",
   },
   privacySection4Title: {
-    EN: "Third-Party Sharing",
+    EN: "4. How We Collect Your Data",
     GE: "მესამე მხარეებთან გაზიარება",
     RU: "Передача третьим лицам",
   },
   privacySection4: {
-    EN: "We share necessary booking information with restaurant partners to confirm and manage your reservations. We may share anonymized, aggregated data with analytics providers to improve our services. We do not sell your personal information to third parties for marketing purposes. We may disclose information if required by law, court order, or to protect our legal rights. In the event of a merger or acquisition, your data may be transferred to the new entity.",
+    EN: "We collect your personal data through the following means:\n\n• Directly from you, when you register an account, make a reservation, browse venues, follow a restaurant profile, or contact us\n• Automatically, through your interactions with the App (pages visited, searches performed, reservations created or cancelled)",
     GE: "ჩვენ ვუზიარებთ საჭირო დაჯავშნის ინფორმაციას პარტნიორ რესტორნებს თქვენი დაჯავშნების დასადასტურებლად და სამართავად. ჩვენ შეიძლება გავუზიაროთ ანონიმიზირებული, აგრეგირებული მონაცემები ანალიტიკის პროვაიდერებს ჩვენი სერვისების გასაუმჯობესებლად. ჩვენ არ ვყიდით თქვენს პირად ინფორმაციას მესამე მხარეებს მარკეტინგული მიზნებისთვის.",
     RU: "Мы делимся необходимой информацией о бронировании с партнерами-ресторанами для подтверждения и управления вашими бронированиями. Мы можем делиться анонимизированными, агрегированными данными с аналитическими провайдерами для улучшения наших услуг. Мы не продаем вашу личную информацию третьим лицам для маркетинговых целей.",
   },
   privacySection5Title: {
-    EN: "Your Rights",
+    EN: "5. How and Why We Use Your Data",
     GE: "თქვენი უფლებები",
     RU: "Ваши права",
   },
   privacySection5: {
-    EN: "You have the right to access, correct, or delete your personal information at any time. You can request a copy of all data we hold about you in a portable format. You have the right to restrict or object to certain processing of your data. You can withdraw consent for optional data processing, such as location tracking or marketing communications. To exercise these rights, contact us through the app or via email. We will respond to requests within 30 days.",
+    EN: "We will only process your personal data where we have a lawful basis to do so. The purposes for which we use your data and the legal basis we rely on:\n\n• Creating and managing your account — Performance of a contract with you.\n• Processing and managing table reservations, including generating your QR entry code — Performance of a contract.\n• Sharing your reservation details with the relevant restaurant — Performance of a contract; legitimate interests (enabling the venue to prepare for your visit).\n• Sending push notifications about your reservations (confirmations, changes, reminders) — Performance of a contract; legitimate interests.\n• Sending push notifications about personalised offers and promotions from restaurants you have visited — Your consent (you may opt out at any time in App settings).\n• Enabling restaurants to view activity data related to your reservations at their venue — Legitimate interests (enabling restaurants to improve their service and send relevant offers).\n• Improving the App and analysing usage — Legitimate interests (maintaining and improving our service).\n• Complying with legal obligations — Legal obligation.",
     GE: "თქვენ გაქვთ უფლება ნებისმიერ დროს მიიღოთ წვდომა, შეასწოროთ ან წაშალოთ თქვენი პირადი ინფორმაცია. შეგიძლიათ მოითხოვოთ ყველა მონაცემის ასლი, რომელსაც თქვენ შესახებ ვფლობთ პორტატულ ფორმატში. თქვენ გაქვთ უფლება შეზღუდოთ ან გააპროტესტოთ თქვენი მონაცემების გარკვეული დამუშავება.",
     RU: "Вы имеете право получить доступ, исправить или удалить вашу личную информацию в любое время. Вы можете запросить копию всех данных, которые мы храним о вас, в портативном формате. Вы имеете право ограничить или возразить против определенной обработки ваших данных.",
   },
   privacySection6Title: {
-    EN: "Cookies & Tracking",
+    EN: "6. QR Codes and In-Venue Experience",
     GE: "ქუქი-ფაილები და თვალყურის დევნება",
     RU: "Файлы cookie и отслеживание",
   },
   privacySection6: {
-    EN: "Our app and website use cookies and similar tracking technologies to enhance your experience, remember your preferences, analyze traffic patterns, and deliver personalized content. Essential cookies are necessary for basic functionality and cannot be disabled. Analytics cookies help us understand how users interact with our platform. You can manage cookie preferences through your browser or device settings. Disabling certain cookies may affect app functionality.",
+    EN: "The App uses two types of QR codes:\n\n6.1 Entry QR Code\nWhen you complete a reservation, the App generates a unique QR code linked to your booking. When you arrive at the venue, the host scans this code to verify your reservation and assign you a table. The scan logs your arrival as part of your visit history in the App.\n\n6.2 Digital Menu QR Code\nOnce you are seated, a second QR code is available at your table which, when scanned, opens the restaurant's digital menu. Scanning this code does not generate or transmit any additional personal data about you beyond confirming that a user with an active reservation at that table accessed the menu.",
     GE: "ჩვენი აპლიკაცია და ვებგვერდი იყენებს ქუქი-ფაილებს და მსგავს თვალყურის დევნის ტექნოლოგიებს თქვენი გამოცდილების გასაუმჯობესებლად, თქვენი პრეფერენციების დასამახსოვრებლად, ტრაფიკის ნიმუშების გასაანალიზებლად და პერსონალიზებული კონტენტის მოსაწოდებლად.",
     RU: "Наше приложение и веб-сайт используют файлы cookie и аналогичные технологии отслеживания для улучшения вашего опыта, запоминания ваших предпочтений, анализа трафика и предоставления персонализированного контента.",
   },
   privacySection7Title: {
-    EN: "Contact Us",
+    EN: "7. Who We Share Your Data With",
     GE: "დაგვიკავშირდით",
     RU: "Свяжитесь с нами",
   },
   privacySection7: {
-    EN: "For any privacy-related questions, concerns, or requests, please contact our Data Protection Officer at helloadgili@gmail.com. You can also reach us through the app's support feature or by mail at Adgili LLC, Tbilisi, Georgia. We are committed to addressing your concerns promptly and transparently.",
+    EN: "We do not sell your personal data. We share it only in the following circumstances:\n\n7.1 With Restaurants\nWhen you make a reservation, we share with that restaurant only: your first and last name, email address, mobile phone number (for exceptional contact situations only), reservation details (date, time, number of guests), and your visit history and dining preference data relevant specifically to that restaurant.\n\nRestaurants use this data to prepare for your arrival, manage table allocation, and — where you have opted in — send you personalised offers through the App. Restaurants may not use your contact details for independent direct marketing outside the App.\n\n7.2 With Service Providers\nWe work with carefully selected third-party technical providers (such as hosting, analytics, and push notification services) who process data on our behalf under strict contractual obligations.\n\n7.3 Legal Requirements\nWe may disclose your data to law enforcement authorities where required by Georgian law or applicable EU law, or where necessary to protect the rights, safety, or property of Adgili, our users, or others.\n\n7.4 Business Transfers\nIf Adgili undergoes a merger, acquisition, or sale of assets, your personal data may be transferred as part of that transaction. We will notify you beforehand where required by law.",
     GE: "ნებისმიერი კონფიდენციალურობასთან დაკავშირებული კითხვის, შეშფოთების ან მოთხოვნისთვის, გთხოვთ დაუკავშირდეთ ჩვენს მონაცემთა დაცვის ოფიცერს მისამართზე helloadgili@gmail.com. ასევე შეგიძლიათ დაგვიკავშირდეთ აპლიკაციის მხარდაჭერის ფუნქციით ან ფოსტით: Adgili LLC, თბილისი, საქართველო.",
     RU: "По любым вопросам, касающимся конфиденциальности, пожалуйста, свяжитесь с нашим специалистом по защите данных по адресу helloadgili@gmail.com. Вы также можете связаться с нами через функцию поддержки в приложении или по почте: Adgili LLC, Тбилиси, Грузия.",
   },
-
+  privacySection8Title: {
+    EN: "8. International Data Transfers",
+    GE: "მონაცემთა საერთაშორისო გადაცემა",
+    RU: "Международная передача данных",
+  },
+  privacySection8: {
+    EN: "We have not yet finalised the hosting location for our servers. If your personal data is transferred outside of Georgia, we will ensure that appropriate safeguards are in place — such as standard contractual clauses approved by the relevant supervisory authority — to protect your data to at least the same standard as required under Georgian law and the GDPR. We will update this Policy once our hosting arrangements are confirmed.",
+    GE: "ჩვენ ჯერ არ განგვისაზღვრავს ჩვენი სერვერების მასპინძლობის ადგილმდებარეობა. თუ თქვენი პერსონალური მონაცემები გადაეცემა საქართველოს გარეთ, ჩვენ უზრუნველვყოფთ შესაბამისი დაცვის ზომების არსებობას.",
+    RU: "Мы ещё не определились с местом размещения наших серверов. Если ваши персональные данные будут переданы за пределы Грузии, мы обеспечим наличие соответствующих гарантий защиты данных.",
+  },
+  privacySection9Title: {
+    EN: "9. How Long We Keep Your Data",
+    GE: "მონაცემთა შენახვის ვადა",
+    RU: "Срок хранения данных",
+  },
+  privacySection9: {
+    EN: "We keep your personal data only for as long as is necessary for the purposes described in this Policy, or as required by law.\n\n• Active account: we retain all account and usage data for as long as your account remains open.\n• After account deletion: we delete all personal data connected to your account, with the exception of your anonymised user ID, hashed email address, and hashed password. These minimal identifiers are retained to prevent re-registration abuse and to satisfy our record-keeping obligations. They are not used for any other purpose.\n• Legal obligation: where applicable law requires us to retain certain records, we will do so for the required period.",
+    GE: "ჩვენ ვინახავთ თქვენს პერსონალურ მონაცემებს მხოლოდ იმ დრომდე, რამდენიც საჭიროა ამ პოლიტიკაში აღწერილი მიზნებისთვის ან კანონით მოთხოვნილი ვადით.",
+    RU: "Мы храним ваши персональные данные только столько, сколько необходимо для целей, описанных в настоящей Политике, или как того требует закон.",
+  },
+  privacySection10Title: {
+    EN: "10. Security",
+    GE: "უსაფრთხოება",
+    RU: "Безопасность",
+  },
+  privacySection10: {
+    EN: "We take the security of your data seriously. The measures we have in place include:\n\n• All passwords are stored exclusively in hashed (bcrypt) form — we never store or have access to your actual password\n• All data transmission between the App and our servers is encrypted using TLS\n• Access to personal data is restricted to personnel who have a legitimate operational need\n• We maintain procedures to detect and respond to personal data breaches, and will notify you and the relevant supervisory authority where required by law\n\nNo method of electronic storage or transmission is 100% secure. While we strive to use commercially acceptable means to protect your data, we cannot guarantee its absolute security.",
+    GE: "ჩვენ სერიოზულად ვეკიდებით თქვენი მონაცემების უსაფრთხოებას. ჩვენ მიერ გატარებული ზომები მოიცავს: ყველა პაროლი ინახება მხოლოდ ჰეშირებული ფორმით, ყველა მონაცემთა გადაცემა დაშიფრულია TLS-ის გამოყენებით.",
+    RU: "Мы серьёзно относимся к безопасности ваших данных. Принятые меры включают: все пароли хранятся исключительно в хешированном виде, все передачи данных зашифрованы с использованием TLS.",
+  },
+  privacySection11Title: {
+    EN: "11. Push Notifications",
+    GE: "პუშ შეტყობინებები",
+    RU: "Push-уведомления",
+  },
+  privacySection11: {
+    EN: "We use push notifications for two purposes:\n\n11.1 Reservation Notifications (Transactional)\nWe will send you push notifications relating to your reservations — such as confirmation, reminders, and any changes or cancellations. These are necessary to fulfil your reservation contract and cannot be turned off while your account is active, except by disabling push notifications entirely in your device settings.\n\n11.2 Promotional Notifications (Marketing)\nWith your consent, we and participating restaurants may send you personalised push notifications about special offers, discounts, and promotions relevant to your dining preferences and visit history. You may withdraw this consent at any time in the App's notification settings without affecting the transactional notifications described above.",
+    GE: "ჩვენ ვიყენებთ პუშ შეტყობინებებს ორი მიზნით: სარეზერვაციო შეტყობინებები და სარეკლამო შეტყობინებები თქვენი თანხმობით.",
+    RU: "Мы используем push-уведомления для двух целей: уведомления о бронировании и рекламные уведомления с вашего согласия.",
+  },
+  privacySection12Title: {
+    EN: "12. Your Rights",
+    GE: "თქვენი უფლებები",
+    RU: "Ваши права",
+  },
+  privacySection12: {
+    EN: "Under Georgian data protection law and, to the extent applicable, the GDPR, you have the following rights with respect to your personal data:\n\n• Right of access — to request a copy of the personal data we hold about you.\n• Right to rectification — to ask us to correct inaccurate or incomplete data.\n• Right to erasure — to request that we delete your personal data, subject to our legal retention obligations.\n• Right to restriction of processing — to ask us to pause processing of your data in certain circumstances.\n• Right to data portability — to receive your data in a structured, machine-readable format where processing is based on consent or contract.\n• Right to object — to object to processing based on legitimate interests.\n• Right to withdraw consent — where processing is based on your consent, you may withdraw it at any time without affecting the lawfulness of prior processing.\n\nTo exercise any of these rights, please contact us at hello@adgili.ge. We will respond within 30 days. We may ask you to verify your identity before acting on your request.\n\nYou also have the right to lodge a complaint with the Personal Data Protection Service of Georgia (www.pdp.ge), or with the supervisory authority of an EU member state if you are based in the EU.",
+    GE: "თქვენ გაქვთ უფლება ნებისმიერ დროს მიიღოთ წვდომა, შეასწოროთ ან წაშალოთ თქვენი პირადი ინფორმაცია. შეგიძლიათ მოითხოვოთ ყველა მონაცემის ასლი, რომელსაც თქვენ შესახებ ვფლობთ პორტატულ ფორმატში. თქვენ გაქვთ უფლება შეზღუდოთ ან გააპროტესტოთ თქვენი მონაცემების გარკვეული დამუშავება.",
+    RU: "Вы имеете право получить доступ, исправить или удалить вашу личную информацию в любое время. Вы можете запросить копию всех данных, которые мы храним о вас, в портативном формате. Вы имеете право ограничить или возразить против определенной обработки ваших данных.",
+  },
+  privacySection13Title: {
+    EN: "13. Cookies",
+    GE: "ქუქი-ფაილები",
+    RU: "Файлы cookie",
+  },
+  privacySection13: {
+    EN: "Our App uses session and persistent cookies and similar technologies to remember your preferences, maintain your login session, and understand how you use the App. You may control cookie behaviour through your browser or device settings; however, disabling certain cookies may affect App functionality.",
+    GE: "ჩვენი აპლიკაცია იყენებს ქუქი-ფაილებს თქვენი პრეფერენციების დასამახსოვრებლად და სესიის შესანარჩუნებლად.",
+    RU: "Наше приложение использует файлы cookie для запоминания ваших предпочтений и поддержания сеанса входа.",
+  },
+  privacySection14Title: {
+    EN: "14. Changes to This Policy",
+    GE: "პოლიტიკის ცვლილებები",
+    RU: "Изменения в политике",
+  },
+  privacySection14: {
+    EN: "We may update this Policy from time to time to reflect changes in our App, our data practices, or applicable law. When we make significant changes, we will notify you via a push notification or an in-App message. The date at the top of this Policy always reflects when it was last revised. Continued use of the App after a change constitutes acceptance of the updated Policy.",
+    GE: "ჩვენ შეიძლება პერიოდულად განვაახლოთ ეს პოლიტიკა. მნიშვნელოვანი ცვლილებების შემთხვევაში გაცნობებთ პუშ შეტყობინებით ან აპლიკაციაში.",
+    RU: "Мы можем периодически обновлять настоящую Политику. О существенных изменениях мы уведомим вас через push-уведомление или сообщение в приложении.",
+  },
+  privacySection15Title: {
+    EN: "15. Contact Us",
+    GE: "დაგვიკავშირდით",
+    RU: "Свяжитесь с нами",
+  },
+  privacySection15: {
+    EN: "If you have any questions about this Policy, wish to exercise your rights, or want to raise a concern, please contact us:\n\nAdgili\nEmail: hello@adgili.ge\nAddress: Batumi, Adjara, Georgia\n\nWe will do our best to address your concern promptly. If you are not satisfied with our response, you have the right to escalate to the Personal Data Protection Service of Georgia (www.pdp.ge).\n\nAdgili — Your spot, reserved.",
+    GE: "ნებისმიერი კონფიდენციალურობასთან დაკავშირებული კითხვის, შეშფოთების ან მოთხოვნისთვის, გთხოვთ დაუკავშირდეთ ჩვენს მონაცემთა დაცვის ოფიცერს მისამართზე helloadgili@gmail.com. ასევე შეგიძლიათ დაგვიკავშირდეთ აპლიკაციის მხარდაჭერის ფუნქციით ან ფოსტით: Adgili LLC, თბილისი, საქართველო.",
+    RU: "По любым вопросам, касающимся конфиденциальности, пожалуйста, свяжитесь с нашим специалистом по защите данных по адресу helloadgili@gmail.com. Вы также можете связаться с нами через функцию поддержки в приложении или по почте: Adgili LLC, Тбилиси, Грузия.",
+  },
 }
 
 interface LanguageContextType {
