@@ -695,12 +695,12 @@ export const translations: Translations = {
   },
   privacySection1Title: {
     EN: "1. Introduction",
-    GE: "შესავალი",
-    RU: "Введение",
+    GE: "1. შესავალი",
+    RU: "1. Введение",
   },
   privacySection1: {
     EN: "Adgili (\"we\", \"us\", \"our\") is a table reservation platform developed and operated by Adgili, a partnership registered in Georgia (the country), dedicated to helping users discover restaurants, cafes, and dining venues and reserve tables through our mobile and web application (the \"App\").\n\nThis Privacy Policy (the \"Policy\") explains what personal data we collect when you use our App, how we use and protect it, with whom we may share it, and what rights you have over it.\n\nBy creating an account or using the App, you agree to this Policy. If you do not agree, please stop using the App. We may update this Policy from time to time; we will notify you of significant changes through the App.\n\nThe App is not directed at children under the age of 16. We do not knowingly collect personal data from children. If you believe we have done so inadvertently, please contact us at the address in Section 10.",
-    GE: "ჩვენ ვაგროვებთ ინფორმ  ციას, რომელსაც პირდაპირ მოგვაწვდით, მათ შორის თქვენი სრული სახელი, ელ.ფოსტის მისამართი, ტელეფონის ნომერი, დაბადების თარიღი და პროფილის პრეფერენციები. ჩვენ ასევე ავტომატურად ვაგროვებთ მოწყობილობის ინფორმაციას, IP მისამართს, მდებარეობის მონაცემებს (თქვენი ნებართვით), აპლიკაციის გამოყენების სტატისტიკას და ინტერაქციის მონაცემებს.",
+    GE: "Adgili (\"ჩვენ\", \"ჩვენი\") არის მაგიდის დაჯავშნის პლატფორმა, შემუშავებული და განკარგული Adgili-ს მიერ — საქართველოში რეგისტრირებული პარტნიორობა, რომლის მიზანია მომხმარებლებს დაეხმაროს რესტორნების, კაფეების და სასადილო ადგილების აღმოჩენასა და მაგიდის დაჯავშნაში ჩვენი მობილური აპლიკაციის (\"აპპი\") საშუალებით.\n\nეს კონფიდენციალურობის პოლიტიკა (\"პოლიტიკა\") განმარტავს, თუ რა პერსონალურ მონაცემებს ვაგროვებთ აპის გამოყენებისას, როგორ ვიყენებთ და ვიცავთ მათ, ვისთან შეიძლება გავაზიაროთ და რა უფლებები გაქვთ მათ მიმართ.\n\nაპზე ანგარიშის შექმნით ან გამოყენებით, თქვენ ეთანხმებით ამ პოლიტიკას. თუ არ ეთანხმებით, გთხოვთ შეწყვიტოთ აპის გამოყენება. პოლიტიკა შეიძლება დროდადრო განახლდეს; მნიშვნელოვანი ცვლილებების შესახებ შეგატყობინებთ აპის საშუალებით.\n\nაპი არ არის განკუთვნილი 5 წელს მიღწეული ასაკის ბავშვებისთვის. ჩვენ შეგნებულად არ ვაგროვებთ ბავშვების პერსონალურ მონაცემებს. თუ მიგაჩნიათ, რომ ეს უნებლიეთ მოხდა, გთხოვთ გადახედოთ მე-10 პუნქტში არსებულ ინფორმაციას.",
     RU: "Мы собираем информацию, которую вы предоставляете напрямую, включая ваше полное имя, адрес электронной почты, номер телефона, дату рождения и предпочтения профиля. Мы также автоматически собираем информацию об устройстве, IP-адрес, данные о местоположении (с вашего разрешения), статистику использования приложения и данные взаимодействия.",
   },
   privacySection2Title: {
