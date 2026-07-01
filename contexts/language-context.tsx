@@ -775,13 +775,13 @@ export const translations: Translations = {
   },
   privacySection9Title: {
     EN: "9. How Long We Keep Your Data",
-    GE: "მონაცემთა შენახვის ვადა",
-    RU: "Срок хранения данных",
+    GE: "9. რამდენ ხანს ვინახავთ თქვენს მონაცემებს",
+    RU: "9. Как долго мы храним ваши данные",
   },
   privacySection9: {
-    EN: "We keep your personal data only for as long as is necessary for the purposes described in this Policy, or as required by law.\n\n• Active account: we retain all account and usage data for as long as your account remains open.\n• After account deletion: we delete all personal data connected to your account, with the exception of your anonymised user ID, hashed email address, and hashed password. These minimal identifiers are retained to prevent re-registration abuse and to satisfy our record-keeping obligations. They are not used for any other purpose.\n• Legal obligation: where applicable law requires us to retain certain records, we will do so for the required period.",
-    GE: "ჩვენ ვინახავთ თქვენს პერსონალურ მონაცემებს მხოლოდ იმ დრომდე, რამდენიც საჭიროა ამ პოლიტიკაში აღწერილი მიზნებისთვის ან კანონით მოთხოვნილი ვადით.",
-    RU: "Мы храним ваши персональные данные только столько, сколько необходимо для целей, описанных в настоящей Политике, или как того требует закон.",
+    EN: "We keep your personal data only for as long as is necessary for the purposes described in this Policy, or as required by law.\n\n• Active account: we retain all account and usage data for as long as your account remains open.\n• After account deletion: we delete all personal data connected to your account, with the exception of your anonymised user ID, hashed email address, and hashed password. These minimal identifiers are retained to prevent re-registration abuse and to satisfy our record-keeping obligations. They are not used for any other purpose.\n• Legal obligation: where applicable law (including Georgian tax or commercial legislation) requires us to retain certain records, we will do so for the required period.",
+    GE: "პერსონალურ მონაცემებს ვინახავთ მხოლოდ იმდენ ხანს, რამდენიც აუცილებელია ამ პოლიტიკაში აღწერილი მიზნებისთვის ან კანონით მოთხოვნილი.\n\n• აქტიური ანგარიში: ვინახავთ ყველა ანგარიშისა და გამოყენების მონაცემს, სანამ ანგარიში ღიაა.\n• ანგარიშის წაშლის შემდეგ: ვშლით ყველა პერსონალურ მონაცემს, გარდა ანონიმიზებული მომხმარებლის ID-ისა, დაშიფრული ელ.ფოსტისა და დაშიფრული პაროლისა. ეს მინიმალური მაიდენტიფიცირებლები ინახება ხელახალი რეგისტრაციის ბოროტგამოყენების თავიდან ასაცილებლად და ჩვენი ჩანაწერების შენახვის ვალდებულებების შესასრულებლად.\n• სამართლებრივი ვალდებულება: სადაც კანონი (მათ შორის საქართველოს საგადასახადო ან კომერციული კანონმდებლობა) ითხოვს გარკვეული ჩანაწერების შენახვას, ამას გავაკეთებთ მოთხოვნილი ვადის განმავლობაში.",
+    RU: "Мы храним персональные данные только до тех пор, пока это необходимо для целей, описанных в настоящей политике, или требуется по закону.\n\n• Активный аккаунт: Мы храним все данные аккаунта и использования, пока аккаунт открыт.\n• После удаления аккаунта: Мы удаляем все персональные данные, за исключением анонимизированного ID пользователя, зашифрованного адреса электронной почты и зашифрованного пароля. Эти минимальные идентификаторы хранятся для предотвращения злоупотреблений при повторной регистрации и для выполнения наших обязательств по хранению записей.\n• Юридическое обязательство: В случаях, когда закон (включая налоговое или коммерческое законодательство Грузии) требует сохранения определенных записей, мы будем хранить их в течение установленного срока.",
   },
   privacySection10Title: {
     EN: "10. Security",
