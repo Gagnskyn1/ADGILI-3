@@ -765,13 +765,13 @@ export const translations: Translations = {
   },
   privacySection8Title: {
     EN: "8. International Data Transfers",
-    GE: "მონაცემთა საერთაშორისო გადაცემა",
-    RU: "Международная передача данных",
+    GE: "8. მონაცემთა საერთაშორისო გადაცემა",
+    RU: "8. Международная передача данных",
   },
   privacySection8: {
     EN: "We have not yet finalised the hosting location for our servers. If your personal data is transferred outside of Georgia, we will ensure that appropriate safeguards are in place — such as standard contractual clauses approved by the relevant supervisory authority — to protect your data to at least the same standard as required under Georgian law and the GDPR. We will update this Policy once our hosting arrangements are confirmed.",
-    GE: "ჩვენ ჯერ არ განგვისაზღვრავს ჩვენი სერვერების მასპინძლობის ადგილმდებარეობა. თუ თქვენი პერსონალური მონაცემები გადაეცემა საქართველოს გარეთ, ჩვენ უზრუნველვყოფთ შესაბამისი დაცვის ზომების არსებობას.",
-    RU: "Мы ещё не определились с местом размещения наших серверов. Если ваши персональные данные будут переданы за пределы Грузии, мы обеспечим наличие соответствующих гарантий защиты данных.",
+    GE: "სერვერების განთავსების ადგილი ჯერ საბოლოოდ არ გადაწყვეტილა. თუ თქვენი პერსონალური მონაცემები საქართველოს ფარგლებს გარეთ გადაეცემა, უზრუნველვყოფთ შესაბამის დაცვის გარანტიებს — მაგალითად, სტანდარტული სახელშეკრულებო პირობებით რათა მონაცემები დაცული იყოს საქართველოს კანონმდებლობისა და GDPR-ის მოთხოვნების შესაბამისად. ჰოსტინგის მოწყობის დასრულების შემდეგ განვაახლებთ ამ პოლიტიკას.",
+    RU: "Место размещения серверов пока окончательно не определено. Если ваши персональные данные будут передаваться за пределы Грузии, мы обеспечим надлежащие гарантии защиты — например, посредством стандартных договорных условий, чтобы данные были защищены в соответствии с требованиями законодательства Грузии и GDPR. Мы обновим эту политику после завершения настройки хостинга.",
   },
   privacySection9Title: {
     EN: "9. How Long We Keep Your Data",
