@@ -795,18 +795,18 @@ export const translations: Translations = {
   },
   privacySection11Title: {
     EN: "11. Push Notifications",
-    GE: "პუშ შეტყობინებები",
-    RU: "Push-уведомления",
+    GE: "11. Push-შეტყობინებები",
+    RU: "11. Push-уведомления",
   },
   privacySection11: {
     EN: "We use push notifications for two purposes:\n\n11.1 Reservation Notifications (Transactional)\nWe will send you push notifications relating to your reservations — such as confirmation, reminders, and any changes or cancellations. These are necessary to fulfil your reservation contract and cannot be turned off while your account is active, except by disabling push notifications entirely in your device settings.\n\n11.2 Promotional Notifications (Marketing)\nWith your consent, we and participating restaurants may send you personalised push notifications about special offers, discounts, and promotions relevant to your dining preferences and visit history. You may withdraw this consent at any time in the App's notification settings without affecting the transactional notifications described above.",
-    GE: "ჩვენ ვიყენებთ პუშ შეტყობინებებს ორი მიზნით: სარეზერვაციო შეტყობინებები და სარეკლამო შეტყობინებები თქვენი თანხმობით.",
-    RU: "Мы используем push-уведомления для двух целей: уведомления о бронировании и рекламные уведомления с вашего согласия.",
+    GE: "Push-შეტყობინებებს ვიყენებთ ორი მიზნით:\n\n11.1 დაჯავშნის შეტყობინებები (ტრანზაქციული)\nგამოგიგზავნით Push-შეტყობინებებს თქვენი დაჯავშნის შესახებ — დადასტურება, შეხსენებები, ცვლილებები ან გაუქმებები. ეს აუცილებელია დაჯავშნის ხელშეკრულების შესასრულებლად და არ შეიძლება გამორთული იყოს, გარდა მოწყობილობის პარამეტრებში Push-შეტყობინებების სრულად გამორთვის შემთხვევისა.\n\n11.2 სარეკლამო შეტყობინებები (მარკეტინგული)\nთქვენი თანხმობით, ჩვენ და მონაწილე რესტორნებმა შეიძლება გამოგიგზავნოთ პერსონალიზებული Push-შეტყობინებები სპეციალური შეთავაზებების, ფასდაკლებებისა და აქციების შესახებ. ამაზე თანხმობა ნებისმიერ დროს შეგიძლიათ აპის შეტყობინებების პარამეტრებში, ტრანზაქციული შეტყობინებების შეუფერხებლად.",
+    RU: "Мы используем Push-уведомления в двух целях:\n\n11.1 Уведомления о бронировании (транзакционные)\nМы будем отправлять вам Push-уведомления о вашем бронировании — подтверждения, напоминания, изменения или отмены. Это необходимо для исполнения договора бронирования и не может быть отключено, за исключением случая полного отключения Push-уведомлений в настройках самого устройства.\n\n11.2 Рекламные уведомления (маркетинговые)\nС вашего согласия мы и участвующие рестораны можем отправлять вам персонализированные Push-уведомления о специальных предложениях, скидках и акциях. Вы можете отозвать это согласие в любое время в настройках уведомлений приложения, при этом транзакционные уведомления продолжат приходить без изменений.",
   },
   privacySection12Title: {
     EN: "12. Your Rights",
-    GE: "თქვენი უფლებები",
-    RU: "Ваши права",
+    GE: "12. თქვენი უფლებები",
+    RU: "12. Ваши права",
   },
   privacySection12: {
     EN: "Under Georgian data protection law and, to the extent applicable, the GDPR, you have the following rights with respect to your personal data:\n\n• Right of access — to request a copy of the personal data we hold about you.\n• Right to rectification — to ask us to correct inaccurate or incomplete data.\n• Right to erasure — to request that we delete your personal data, subject to our legal retention obligations.\n• Right to restriction of processing — to ask us to pause processing of your data in certain circumstances.\n• Right to data portability — to receive your data in a structured, machine-readable format where processing is based on consent or contract.\n• Right to object — to object to processing based on legitimate interests.\n• Right to withdraw consent — where processing is based on your consent, you may withdraw it at any time without affecting the lawfulness of prior processing.\n\nTo exercise any of these rights, please contact us at helloadgili@gmail.com. We will respond within 30 days. We may ask you to verify your identity before acting on your request.\n\nYou also have the right to lodge a complaint with the Personal Data Protection Service of Georgia (www.pdp.ge), or with the supervisory authority of an EU member state if you are based in the EU.",
