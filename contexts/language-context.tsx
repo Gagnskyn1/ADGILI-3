@@ -785,13 +785,13 @@ export const translations: Translations = {
   },
   privacySection10Title: {
     EN: "10. Security",
-    GE: "უსაფრთხოება",
-    RU: "Безопасность",
+    GE: "10. უსაფრთხოება",
+    RU: "10. Безопасность",
   },
   privacySection10: {
-    EN: "We take the security of your data seriously. The measures we have in place include:\n\n• All passwords are stored exclusively in hashed (bcrypt) form — we never store or have access to your actual password\n• All data transmission between the App and our servers is encrypted using TLS\n• Access to personal data is restricted to personnel who have a legitimate operational need\n• We maintain procedures to detect and respond to personal data breaches, and will notify you and the relevant supervisory authority where required by law\n\nNo method of electronic storage or transmission is 100% secure. While we strive to use commercially acceptable means to protect your data, we cannot guarantee its absolute security.",
-    GE: "ჩვენ სერიოზულად ვეკიდებით თქვენი მონაცემების უსაფრთხოებას. ჩვენ მიერ გატარებული ზომები მოიცავს: ყველა პაროლი ინახება მხოლოდ ჰეშირებული ფორმით, ყველა მონაცემთა გადაცემა დაშიფრულია TLS-ის გამოყენებით.",
-    RU: "Мы серьёзно относимся к безопасности ваших данных. Принятые меры включают: все пароли хранятся исключительно в хешированном виде, все передачи данных зашифрованы с использованием TLS.",
+    EN: "We take the security of your data seriously. The measures we have in place include:\n\n• All passwords are stored exclusively in hashed (bcrypt) form — we never store or have access to your actual password\n• All data transmission between the App and our servers is encrypted using TLS\n• Access to personal data is restricted to personnel who have a legitimate operational need\n• We have procedures for detecting and responding to incidents involving personal data.\n\nNo method of electronic storage or transmission is 100% secure. While we strive to use commercially acceptable means to protect your data, we cannot guarantee its absolute security.",
+    GE: "თქვენი მონაცემების უსაფრთხოება ჩვენთვის პრიორიტეტულია. ჩვენ მიერ გატარებული ზომები მოიცავს:\n\n• ყველა პაროლი ინახება მხოლოდ დაშიფრული (bcrypt) სახით — ჩვენ არასდროს გვაქვს წვდომა თქვენს რეალურ პაროლზე\n• აპსა და სერვერებს შორის ყველა მონაცემთა გადაცემა დაშიფრულია TLS-ის გამოყენებით\n• პერსონალურ მონაცემებზე წვდომა შეზღუდულია მხოლოდ იმ პერსონალთათვის, ვისაც ოპერაციული საჭიროება აქვს\n• გვაქვს პროცედურები პერსონალურ მონაცემებთან დაკავშირებული ინციდენტების გამოვლენისა და რეაგირებისთვის\n\nელექტრონული შენახვის ან გადაცემის არცერთი მეთოდი 100%-ით უსაფრთხო არ არის. ვცდილობთ გამოვიყენოთ კომერციულად მისაღები საშუალებები თქვენი მონაცემების დასაცავად, თუმცა სრულ გარანტიას ვერ ვიძლევით.",
+    RU: "Безопасность ваших данных является для нас приоритетом. Меры, принимаемые нами, включают:\n\n• Все пароли хранятся исключительно в зашифрованном виде (bcrypt) — мы никогда не имеем доступа к вашему реальному паролю.\n• Вся передача данных между приложением и серверами зашифрована с использованием TLS.\n• Доступ к персональным данным ограничен только тем персоналом, у которого есть операционная необходимость.\n• У нас есть процедуры для обнаружения инцидентов, связанных с персональными данными, и реагирования на них.\n\nНи один метод электронного хранения или передачи не является безопасным на 100%. Мы стремимся использовать коммерчески приемлемые средства для защиты ваших данных, однако не можем гарантировать абсолютную безопасность.",
   },
   privacySection11Title: {
     EN: "11. Push Notifications",
