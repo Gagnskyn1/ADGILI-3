@@ -830,17 +830,17 @@ export const translations: Translations = {
   },
   privacySection14: {
     EN: "We may update this Policy from time to time to reflect changes in our App, our data practices, or applicable law. When we make significant changes, we will notify you via a push notification or an in-App message. The date at the top of this Policy always reflects when it was last revised. Continued use of the App after a change constitutes acceptance of the updated Policy.",
-    GE: "ჩვენ შეიძლება პერიოდულად განვაახლოთ ეს პოლიტიკა. მნიშვნელოვანი ცვლილებების შემთხვევაში გაცნობებთ პუშ შეტყობინებით ან აპლიკაციაში.",
-    RU: "Мы можем периодически обновлять настоящую Политику. О существенных изменениях мы уведомим вас через push-уведомление или сообщение в приложении.",
+    GE: "პოლიტიკა შეიძლება დროდადრო განახლდეს, რათა ასახოს ცვლილებები აპში, მონაცემთა პრაქტიკაში ან მოქმედ კანონმდებლობაში. მნიშვნელოვანი ცვლილებების შემთხვევაში შეგატყობინებთ Push-შეტყობინების ან აპში, შეტყობინების საშუალებით. პოლიტიკის სათაურში მითითებული თარიღი ყოველთვის ასახავს ბოლო შემოწმების დღეს. აპის გამოყენების გაგრძელება ცვლილების შემდეგ განიხილება განახლებული პოლიტიკის მიღებად.",
+    RU: "Политика может периодически обновляться, чтобы отражать изменения в приложении, практике работы с данными или действующем законодательстве. В случае существенных изменений мы уведомим вас с помощью Push-уведомления или оповещения в приложении. Дата, указанная в заголовке политики, всегда отражает день последнего обновления. Продолжение использования приложения после внесения изменений считается принятием обновленной политики.",
   },
   privacySection15Title: {
     EN: "15. Contact Us",
-    GE: "დაგვიკავშირდით",
-    RU: "Свяжитесь с нами",
+    GE: "15. დაგვიკავშირდით",
+    RU: "15. Контакты",
   },
   privacySection15: {
     EN: "If you have any questions about this Policy, wish to exercise your rights, or want to raise a concern, please contact us:\n\nAdgili\nEmail: helloadgili@gmail.com\nAddress: Batumi, Adjara, Georgia\n\nWe will do our best to address your concern promptly. If you are not satisfied with our response, you have the right to escalate to the Personal Data Protection Service of Georgia (www.pdp.ge).\n\nAdgili — Your spot, reserved.",
-    GE: "ნებისმიერი კონფიდენციალურობასთან დაკავშირებული კითხვის, შეშფოთების ან მოთხოვნისთვის, გთხოვთ დაუკავშირდეთ ჩვენს მონაცემთა დაცვის ოფიცერს მისამართზე helloadgili@gmail.com. ასევე შეგიძლიათ დაგვიკავშირდეთ აპლიკაციის მხარდაჭერის ფუნქციით ან ფოსტით: Adgili LLC, თბილისი, საქართველო.",
+    GE: "თუ გაქვთ კითხვები ამ პოლიტიკის შესახებ, გსურთ განახორციელოთ თქვენი უფლებები ან წარმოადგინოთ პრეტენზია, გთხოვთ დაგვიკავშირდეთ:\n\nAdgili\nელ.ფოსტა: helloadgili@gmail.com\nმისამართი: ბათუმი, აჭარა, საქართველო\n\nყველა პრეტენზიაზე დროულ პასუხს გარანტირებულად გაგცემთ. თუ ჩვენი პასუხი არ გაკმაყოფილებთ, გაქვთ უფლება მიმართოთ საქართველოს პერსონალურ მონაცემთა დაცვის სამსახურს (www.pdp.ge).\n\nAdgili — შენი ადგილი, დაჯავშნილია.",
     RU: "По любым вопросам, касающимся конфиденциальности, пожалуйста, свяжитесь с нашим специалистом по защите данных по адресу helloadgili@gmail.com. Вы также можете связаться с нами через функцию поддержки в приложении или по почте: Adgili LLC, Тбилиси, Грузия.",
   },
 }
