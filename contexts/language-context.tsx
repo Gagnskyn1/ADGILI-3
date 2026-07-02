@@ -825,8 +825,8 @@ export const translations: Translations = {
   },
   privacySection14Title: {
     EN: "14. Changes to This Policy",
-    GE: "პოლიტიკის ცვლილებები",
-    RU: "Изменения в политике",
+    GE: "14. ამ პოლიტიკაში ცვლილებები",
+    RU: "14. Изменения в настоящей политике",
   },
   privacySection14: {
     EN: "We may update this Policy from time to time to reflect changes in our App, our data practices, or applicable law. When we make significant changes, we will notify you via a push notification or an in-App message. The date at the top of this Policy always reflects when it was last revised. Continued use of the App after a change constitutes acceptance of the updated Policy.",
