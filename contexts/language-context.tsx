@@ -815,13 +815,13 @@ export const translations: Translations = {
   },
   privacySection13Title: {
     EN: "13. Cookies",
-    GE: "ქუქი-ფაილები",
-    RU: "Файлы cookie",
+    GE: "13. ქუქი-ფაილები",
+    RU: "13. Файлы куки (Cookies)",
   },
   privacySection13: {
     EN: "Our App uses session and persistent cookies and similar technologies to remember your preferences, maintain your login session, and understand how you use the App. You may control cookie behaviour through your browser or device settings; however, disabling certain cookies may affect App functionality.",
-    GE: "ჩვენი აპლიკაცია იყენებს ქუქი-ფაილებს თქვენი პრეფერენციების დასამახსოვრებლად და სესიის შესანარჩუნებლად.",
-    RU: "Наше приложение использует файлы cookie для запоминания ваших предпочтений и поддержания сеанса входа.",
+    GE: "ჩვენი აპი იყენებს სესიურ და მუდმივ ქუქი-ფაილებსა და მსგავს ტექნოლოგიებს თქვენი პრეფერენციების დასამახსოვრებლად, შესვლის სესიის შესანარჩუნებლად და გამოყენების გასაანალიზებლად. ქუქი-ფაილების მართვა შეგიძლიათ ბრაუზერის ან მოწყობილობის პარამეტრებით; თუმცა გარკვეული ქუქი-ფაილების გამორთვამ შეიძლება გავლენა მოახდინოს აპის ფუნქციონირებაზე.",
+    RU: "Наше приложение использует сессионные и постоянные файлы куки и аналогичные технологии для запоминания ваших предпочтений, поддержания сеанса входа в систему и анализа использования. Вы можете управлять файлами куки в настройках браузера или устройства; однако отключение определенных файлов куки может повлиять на функциональность приложения.",
   },
   privacySection14Title: {
     EN: "14. Changes to This Policy",
