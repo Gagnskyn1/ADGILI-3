@@ -841,7 +841,7 @@ export const translations: Translations = {
   privacySection15: {
     EN: "If you have any questions about this Policy, wish to exercise your rights, or want to raise a concern, please contact us:\n\nAdgili\nEmail: helloadgili@gmail.com\nAddress: Batumi, Adjara, Georgia\n\nWe will do our best to address your concern promptly. If you are not satisfied with our response, you have the right to escalate to the Personal Data Protection Service of Georgia (www.pdp.ge).\n\nAdgili — Your spot, reserved.",
     GE: "თუ გაქვთ კითხვები ამ პოლიტიკის შესახებ, გსურთ განახორციელოთ თქვენი უფლებები ან წარმოადგინოთ პრეტენზია, გთხოვთ დაგვიკავშირდეთ:\n\nAdgili\nელ.ფოსტა: helloadgili@gmail.com\nმისამართი: ბათუმი, აჭარა, საქართველო\n\nყველა პრეტენზიაზე დროულ პასუხს გარანტირებულად გაგცემთ. თუ ჩვენი პასუხი არ გაკმაყოფილებთ, გაქვთ უფლება მიმართოთ საქართველოს პერსონალურ მონაცემთა დაცვის სამსახურს (www.pdp.ge).\n\nAdgili — შენი ადგილი, დაჯავშნილია.",
-    RU: "По любым вопросам, касающимся конфиденциальности, пожалуйста, свяжитесь с нашим специалистом по защите данных по адресу helloadgili@gmail.com. Вы также можете связаться с нами через функцию поддержки в приложении или по почте: Adgili LLC, Тбилиси, Грузия.",
+    RU: "Если у вас есть вопросы по поводу этой политики, вы хотите реализовать свои права или подать претензию, пожалуйста, свяжитесь с нами:\n\nAdgili\nЭл. почта: helloadgili@gmail.com\nАдрес: Батуми, Аджария, Грузия\n\nМы гарантируем своевременный ответ на все претензии. Если наш ответ вас не удовлетворит, вы имеете право обратиться в Службу по защите персональных данных Грузии (www.pdp.ge).\n\nAdgili — твоё место, забронировано.",
   },
 }
 
