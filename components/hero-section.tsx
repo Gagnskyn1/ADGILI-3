@@ -192,7 +192,7 @@ function PhoneMockup() {
 
 export function HeroSection() {
   const { t } = useLanguage()
-  const PLAY_STORE_LAUNCH_DATE = new Date('2026-07-07')
+  const PLAY_STORE_LAUNCH_DATE = new Date('2026-08-08')
   const isPlayStoreAvailable = new Date() >= PLAY_STORE_LAUNCH_DATE
 
   return (
