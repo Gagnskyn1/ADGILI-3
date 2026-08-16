@@ -186,7 +186,7 @@ export function HowItWorks() {
 export function GetTheApp() {
   const { t } = useLanguage()
 
-  const PLAY_STORE_LAUNCH_DATE = new Date('2026-08-08')
+  const PLAY_STORE_LAUNCH_DATE = new Date('2026-09-08')
   const isPlayStoreAvailable = new Date() >= PLAY_STORE_LAUNCH_DATE
 
   return (
