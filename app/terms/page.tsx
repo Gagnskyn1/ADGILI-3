@@ -16,7 +16,7 @@ const enSections = [
   {
     title: "2. Other Applicable Terms",
     content:
-      "2.1 Privacy Policy: Our Privacy Policy explains how we collect, use, and protect your personal data. Please read this policy carefully together with these terms.\n\n2.2 App Store Terms: Your use of the application may also be governed by the rules and policies of the store (App Store / Play Store) from which you downloaded the application.",
+      "2.1 Privacy Policy: Our Privacy Policy explains how we collect, use, and protect your personal data. Please read this policy carefully together with these terms. Privacy Policy URL: https://www.adgilze.ge/privacy\n\n2.2 App Store Terms: Your use of the application may also be governed by the rules and policies of the store (App Store / Play Store) from which you downloaded the application.",
   },
   {
     title: "3. Changes to the Terms",
@@ -99,7 +99,7 @@ const geSections = [
   {
     title: "2. სხვა მოქმედი პირობები",
     content:
-      "2.1 კონფიდენციალურობის პოლიტიკა: ჩვენი კონფიდენციალურობის პოლიტიკა განმარტავს, თუ როგორ ვაგროვებთ, ვიყენებთ და ვიცავთ თქვენს პერსონალურ მონაცემებს. გთხოვთ, ყურადღებით წაიკითხოთ ეს პოლიტიკა წინამდებარე პირობებთან ერთად.\n\n2.2 App Store-ის პირობები: თქვენი აპლიკაციის გამოყენება ასევე შეიძლება რეგულირდებოდეს იმ მაღაზიის (App Store / Play Store) წესებითა და პოლიტიკით, საიდანაც გადმოწერეთ აპლიკაცია.",
+      "2.1 კონფიდენციალურობის პოლიტიკა: ჩვენი კონფიდენციალურობის პოლიტიკა განმარტავს, თუ როგორ ვაგროვებთ, ვიყენებთ და ვიცავთ თქვენს პერსონალურ მონაცემებს. გთხოვთ, ყურადღებით წაიკითხოთ ეს პოლიტიკა ამ პირობებთან ერთად. კონფიდენციალურობის პოლიტიკის ბმული: https://www.adgilze.ge/privacy\n\n2.2 App Store-ის პირობები: თქვენი აპლიკაციის გამოყენება ასევე შეიძლება რეგულირდებოდეს იმ მაღაზიის (App Store / Play Store) წესებითა და პოლიტიკით, საიდანაც გადმოწერეთ აპლიკაცია.",
   },
   {
     title: "3. პირობებში ცვლილებები",
@@ -182,7 +182,7 @@ const ruSections = [
   {
     title: "2. Иные применимые условия",
     content:
-      "2.1 Политика конфиденциальности: наша Политика конфиденциальности разъясняет, как мы собираем, используем и защищаем ваши персональные данные. Пожалуйста, внимательно ознакомьтесь с этой политикой вместе с настоящими условиями.\n\n2.2 Условия магазинов приложений: использование вами приложения также может регулироваться правилами и политиками того магазина (App Store / Play Store), из которого вы загрузили приложение.",
+      "2.1 Политика конфиденциальности: Наша Политика конфиденциальности объясняет, как мы собираем, используем и защищаем ваши персональные данные. Пожалуйста, внимательно ознакомьтесь с этой политикой вместе с данными условиями. Ссылка на Политику конфиденциальности: https://www.adgilze.ge/privacy\n\n2.2 Условия магазинов приложений: использование вами приложения также может регулироваться правилами и политиками того магазина (App Store / Play Store), из которого вы загрузили приложение.",
   },
   {
     title: "3. Изменения условий",
