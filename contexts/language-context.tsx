@@ -627,9 +627,9 @@ export const translations: Translations = {
     RU: "1. Партнерское соглашение",
   },
   businessSection1: {
-    EN: "These Business Terms govern the relationship between Adgili LLC and restaurant partners ('Partners') using our platform. By registering as a business partner, you agree to these terms and our standard commission rates. Partners must be legally registered businesses in Georgia with valid operating licenses.",
-    GE: "ეს ბიზნეს პირობები არეგულირებს ურთიერთობას Adgili LLC-სა და პარტნიორ რესტორნებს ('პარტნიორები') შორის, რომლებიც იყენებენ ჩვენს პლატფორმას. ბიზნეს პარტნიორად რეგისტრაციით, თქვენ ეთანხმებით ამ პირობებს და ჩვენს სტანდარტულ საკომისიო განაკვეთებს.",
-    RU: "Настоящие Бизнес-условия регулируют отношения между Adgili LLC и ресторанами-партнерами ('Партнеры'), использующими нашу платформу. Регистрируясь в качестве бизнес-партнера, вы соглашаетесь с этими условиями и нашими стандартными комиссионными ставками.",
+    EN: '"These Business Terms govern the relationship between Adgili, a partnership registered in Georgia (the country) (referred to in commercial records as Adgili LLC where applicable), and restaurant partners ("Partners") using our platform. By registering as a business partner, you agree to these terms and our standard commission rates. Partners must be legally registered businesses in Georgia with valid operating licenses"',
+    GE: "ბიზნესის ეს პირობები არეგულირებს ურთიერთობას Adgili-სა (საქართველოში რეგისტრირებული ამხანაგობა, რომელიც კომერციულ ჩანაწერებში მოხსენიებულია როგორც შპს Adgili, სადაც ეს გამოიყენება) და რესტორან პარტნიორებს („პარტნიორები“) შორის, რომლებიც იყენებენ ჩვენს პლატფორმას. ბიზნეს პარტნიორად დარეგისტრირებით, თქვენ ეთანხმებით ამ პირობებსა და ჩვენს სტანდარტულ საკომისიო განაკვეთებს. პარტნიორები უნდა იყვნენ საქართველოში კანონიერად რეგისტრირებული ბიზნეს სუბიექტები მოქმედი საოპერაციო ლიცენზიებით.",
+    RU: "Настоящие Коммерческие условия регулируют отношения между Adgili, товариществом, зарегистрированным в Грузии (в коммерческих реестрах при необходимости именуемым ООО «Adgili»), и ресторанами-партнерами («Партнеры»), использующими нашу платформу. Регистрируясь в качестве бизнес-партнера, вы соглашаетесь с настоящими условиями и нашими стандартными комиссионными ставками. Партнеры должны быть официально зарегистрированными хозяйствующими субъектами в Грузии с действующими лицензиями на осуществление деятельности.",
   },
   businessSection2Title: {
     EN: "2. Commission & Payments",
