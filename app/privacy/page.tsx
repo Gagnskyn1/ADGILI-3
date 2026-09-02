@@ -1,12 +1,9 @@
 "use client"
-
 import { Navbar } from "@/components/navbar"
 import { Footer } from "@/components/footer"
 import { useLanguage } from "@/contexts/language-context"
-
 export default function PrivacyPage() {
   const { t } = useLanguage()
-
   const sections = [
     { titleKey: "privacySection1Title", contentKey: "privacySection1" },
     { titleKey: "privacySection2Title", contentKey: "privacySection2" },
@@ -24,7 +21,6 @@ export default function PrivacyPage() {
     { titleKey: "privacySection14Title", contentKey: "privacySection14" },
     { titleKey: "privacySection15Title", contentKey: "privacySection15" },
   ]
-
   return (
     <main className="min-h-screen bg-[#0f1a1c]">
       <Navbar />
@@ -33,6 +29,7 @@ export default function PrivacyPage() {
           <h1 className="text-4xl font-serif text-[#f5f5f5] mb-8 text-center">
             {t("privacyTitle")} <span className="text-[#c9a86c]">{t("policy")}</span>
           </h1>
+          <p className="text-center text-[#8a9a9d] text-sm mb-8">{t("privacyLastUpdated")}</p>
           <div className="bg-[#162325] border border-[#2a4245] rounded-xl p-8 text-[#8a9a9d] space-y-8">
             {sections.map((section, index) => (
               <section key={index}>
