@@ -202,7 +202,7 @@ export function GetTheApp() {
 
           <div className="flex justify-center gap-6">
             <a
-              href="https://apps.apple.com"
+              href="https://apps.apple.com/app/adgili/id6803852551"
               target="_blank"
               rel="noopener noreferrer"
               className="flex items-center justify-center w-16 h-16 border-2 border-[#c9a86c] rounded-xl text-[#c9a86c] hover:bg-[#c9a86c] hover:text-[#0f1a1c] transition-all duration-300"
